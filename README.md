@@ -4,7 +4,7 @@ Novels generated for [NaNoGenMo 2016](https://github.com/NaNoGenMo/2016/).
 
 ## Works
 
-- *Moby Dick (hehe)* — A juvenile remix of the classic novel.
+- **[*Moby Dick (hehe)*](moby-dick-hehe/)** — A juvenile remix of the classic novel.
 
 ## Ideas
 
