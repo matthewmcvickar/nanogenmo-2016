@@ -36,7 +36,7 @@ Check out [Chapter 36](https://matthewmcvickar.github.io/nanogenmo-2016/moby-dic
 
       By doing two loops, I'm able to count the number of words since the last replacement and ramp up the laughter if there are a lot of funny words close together.
 
-1. I took the generated text and ran a few simple find-and-replace commands to make a [Markdown version](output/Moby Dick (hehe).md).
+1. I took the generated text and ran a few simple find-and-replace commands to make a [Markdown version](output/Moby Dick \(hehe\).md), which I then exported to an [HTML version](https://matthewmcvickar.github.io/nanogenmo-2016/moby-dick-hehe/output/moby-dick-hehe.html) (the best way to read online) and a [PDF version](output/Moby Dick \(hehe\).pdf).
 
 
 ## Running It Yourself
@@ -44,7 +44,7 @@ Check out [Chapter 36](https://matthewmcvickar.github.io/nanogenmo-2016/moby-dic
 1. Make sure you're in this directory.
 
     ```sh
-    cd nanogenmo-2016/moby-dick-hee
+    cd nanogenmo-2016/moby-dick-hehe
     ```
 
 1. Run the `generate.js` script. This will process `./source/moby-dick_no-text-wrap.txt` into `./output/moby-dick-hehe.txt`.
