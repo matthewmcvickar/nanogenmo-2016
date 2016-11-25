@@ -1,9 +1,6 @@
 # Moby Dick (hehe)
 
 
----
-
-
 ## CHAPTER 1. Loomings.
 
 Call me Ishmael. Some years ago--never mind how long precisely--having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off--then, I account it high time to get to sea as soon as I can. This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; I quietly take to the ship. There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
@@ -41,9 +38,6 @@ Chief among these motives was the overwhelming idea of the great whale himself. 
 By reason of these things, then, the whaling voyage was welcome; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, mid most of them all, one grand hooded phantom, like a snow hill in the air.
 
 
----
-
-
 ## CHAPTER 2. The Carpet-Bag.
 
 I stuffed a shirt or two into my old carpet-bag, tucked it under my arm, and started for Cape Horn and the Pacific. Quitting the good city of old Manhatto, I duly arrived in New Bedford. It was a Saturday night in December. Much was I disappointed upon learning that the little packet for Nantucket had already sailed, and that no way of reaching that place would offer, till the following Monday.
@@ -69,9 +63,6 @@ But what thinks Lazarus? Can he warm his blue hands by holding them up to the gr
 Now, that Lazarus should lie stranded there on the curbstone before the door of Dives, this is more wonderful than that an iceberg should be moored to one of the Moluccas. Yet Dives himself, he too lives like a Czar in an ice palace made of frozen sighs, and being a president of a temperance society, he only drinks the tepid tears of orphans.
 
 But no more of this blubbering now, we are going a-whaling, and there is plenty of that yet to come. Let us scrape the ice from our frosted feet, and see what sort of a place this "Spouter" may be.
-
-
----
 
 
 ## CHAPTER 3. The Spouter-Inn.
@@ -225,9 +216,6 @@ This being told to Queequeg, he at once complied, and again politely motioned me
 I turned in, and never slept better in my life.
 
 
----
-
-
 ## CHAPTER 4. The Counterpane.
 
 Upon waking next morning about daylight, I found Queequeg's arm thrown over me in the most loving and affectionate manner. You had almost thought I had been his wife. The counterpane was of patchwork, full of odd little parti-coloured squares and triangles; and this arm of his tattooed all over with an interminable Cretan labyrinth of a figure, no two parts of which were of one precise shade--owing I suppose to his keeping his arm at sea unmethodically in sun and shade, his shirt sleeves irregularly rolled up at various times--this same arm of his, I say, looked for all the world like a strip of that same patchwork quilt. Indeed, partly lying on it as the arm did when I first awoke, I could hardly tell it from the quilt, they so blended their hues together; and it was only by the sense of weight and pressure that I could tell that Queequeg was hugging me.
@@ -243,9 +231,6 @@ He commenced dressing at top by donning his beaver hat, a very tall one, by the 
 Seeing, now, that there were no curtains to the window, and that the street being very narrow, the house opposite commanded a plain view into the room, and observing more and more the indecorous figure that Queequeg made, staving about with little else but his hat and boots on; I begged him as well as I could, to accelerate his toilet somewhat, and particularly to get into his pantaloons as soon as possible. He complied, and then proceeded to wash himself. At that time in the morning any Christian would have washed his face; but Queequeg, to my amazement, contented himself with restricting his ablutions to his chest, arms, and hands. He then donned his waistcoat, and taking up a piece of hard soap on the wash-stand centre table, dipped it into water and commenced lathering his face. I was watching to see where he kept his razor, when lo and behold, he takes the harpoon from the bed corner, slips out the long wooden stock, unsheathes the head, whets it a little on his boot, and striding up to the bit of mirror against the wall, begins a vigorous scraping, or rather harpooning of his cheeks. Thinks I, Queequeg, this is using Rogers's best cutlery with a vengeance. Afterwards I wondered the less at this operation when I came to know of what fine steel the head of a harpoon is made, and how exceedingly sharp the long straight edges are always kept.
 
 The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal's baton.
-
-
----
 
 
 ## CHAPTER 5. Breakfast.
@@ -269,9 +254,6 @@ But as for Queequeg--why, Queequeg sat there among them--at the head of the tabl
 We will not speak of all Queequeg's peculiarities here; how he eschewed coffee and hot rolls, and applied his undivided attention to beefsteaks, done rare. Enough, that when breakfast was over he withdrew like the rest into the public room, lighted his tomahawk-pipe, and was sitting there quietly digesting and smoking with his inseparable hat on, when I sallied out for a stroll.
 
 
----
-
-
 ## CHAPTER 6. The Street.
 
 If I had been astonished at first catching a glimpse of so outlandish an individual as Queequeg circulating among the polite society of a civilized town, that astonishment soon departed upon taking my first daylight stroll through the streets of New Bedford.
@@ -291,9 +273,6 @@ In New Bedford, fathers, they say, give whales for dowers to their daughters, an
 In summer time, the town is sweet to see; full of fine maples--long avenues of green and gold. And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms. So omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation's final day.
 
 And the women of New Bedford, they bloom like their own red roses. But roses only bloom in summer; whereas the fine carnation of their cheeks is perennial as sunlight in the seventh heavens. Elsewhere match that bloom of theirs, ye cannot, save in Salem, where they tell me the young girls breathe such musk, their sailor sweethearts smell them miles off shore, as though they were drawing nigh the odorous Moluccas instead of the Puritanic sands.
-
-
----
 
 
 ## CHAPTER 7. The Chapel.
@@ -319,9 +298,6 @@ But Faith, like a jackal, feeds among the tombs, and even from these dead doubts
 It needs scarcely to be told, with what feelings, on the eve of a Nantucket voyage, I regarded those marble tablets, and by the murky light of that darkened, doleful day read the fate of the whalemen who had gone before me. Yes, Ishmael, the same fate may be thine. But somehow I grew merry again. Delightful inducements to embark, fine chance for promotion, it seems--aye, a stove boat will make me an immortal by brevet. Yes, there is death in this business of whaling--a speechlessly quick chaotic bundling of a man into Eternity. But what then? Methinks we have hugely mistaken this matter of Life and Death. Methinks that what they call my shadow here on earth is my true substance. Methinks that in looking at things spiritual, we are too much like oysters observing the sun through the water, and thinking that thick water the thinnest of air. Methinks my body is but the lees of my better being. In fact take my body who will, take it I say, it is not me. And therefore three cheers for Nantucket; and come a stove boat and stove body when they will, for stave my soul, Jove himself cannot.
 
 
----
-
-
 ## CHAPTER 8. The Pulpit.
 
 I had not been seated very long ere a man of a certain venerable robustness entered; immediately as the storm-pelted door flew back upon admitting him, a quick regardful eyeing of him by all the congregation, sufficiently attested that this fine old man was the chaplain. Yes, it was the famous Father Mapple, so called by the whalemen, among whom he was a very great favourite. He had been a sailor and a harpooneer in his youth, but for many years past had dedicated his life to the ministry. At the time I now write of, Father Mapple was in the hardy winter of a healthy old age; that sort of old age which seems merging into a second flowering youth, for among all the fissures of his wrinkles, there shone certain mild gleams of a newly developing bloom--the spring verdure peeping forth even beneath February's snow. No one having previously heard his history, could for the first time behold Father Mapple without the utmost interest, because there were certain engrafted clerical peculiarities about him, imputable to that adventurous maritime life he had led. When he entered I observed that he carried no umbrella, and certainly had not come in his carriage, for his tarpaulin hat ran down with melting sleet, and his great pilot cloth jacket seemed almost to drag him to the floor with the weight of the water it had absorbed. However, hat and coat and overshoes were one by one removed, and hung up in a little space in an adjacent corner; when, arrayed in a decent suit, he quietly approached the pulpit.
@@ -337,9 +313,6 @@ But the side ladder was not the only strange feature of the place, borrowed from
 Nor was the pulpit itself without a trace of the same sea-taste that had achieved the ladder and the picture. Its panelled front was in the likeness of a ship's bluff bows, and the Holy Bible rested on a projecting piece of scroll work, fashioned after a ship's fiddle-headed beak.
 
 What could be more full of meaning?--for the pulpit is ever this earth's foremost part; all the rest comes in its rear; the pulpit leads the world. From thence it is the storm of God's quick wrath is first descried, and the bow must bear the earliest brunt. From thence it is the God of breezes fair or foul is first invoked for favourable winds. Yes, the world's a ship on its passage out, and not a voyage complete; and the pulpit is its prow.
-
-
----
 
 
 ## CHAPTER 9. The Sermon.
@@ -414,9 +387,6 @@ He dropped and fell away from himself for a moment; then lifting his face to the
 He said no more, but slowly waving a benediction, covered his face with his hands, and so remained kneeling, till all the people had departed, and he was left alone in the place.
 
 
----
-
-
 ## CHAPTER 10. A Bosom Friend.
 
 Returning to the Spouter-Inn from the Chapel, I found Queequeg there quite alone; he having left the Chapel before the benediction some time. He was sitting on a bench before the fire, with his feet on the stove hearth, and in one hand was holding close up to his face that little negro idol of his; peering hard into its face, and with a jack-knife gently whittling away at its nose, meanwhile humming to himself in his heathenish way.
@@ -440,9 +410,6 @@ I was a good Christian; born and bred in the bosom of the infallible Presbyteria
 How it is I know not; but there is no place like a bed for confidential disclosures between friends. Man and wife, they say, there open the very bottom of their souls to each other; and some old couples often lie and chat over old times till nearly morning. Thus, then, in our hearts' honeymoon, lay I and Queequeg--a cosy, loving pair.
 
 
----
-
-
 ## CHAPTER 11. Nightgown.
 
 We had lain thus in bed, chatting and napping at short intervals, and Queequeg now and then affectionately throwing his brown tattooed legs over mine, and then drawing them back; so entirely sociable and free and easy were we; when, at last, by reason of our confabulations, what little nappishness remained in us altogether departed, and we felt like getting up again, though day-break was yet some way down the future.
@@ -452,9 +419,6 @@ Yes, we became very wakeful; so much so that our recumbent position began to gro
 We had been sitting in this crouching manner for some time, when all at once I thought I would open my eyes; for when between sheets, whether by day or by night, and whether asleep or awake, I have a way of always keeping my eyes shut, in order the more to concentrate the snugness of being in bed. Because no man can ever feel his own identity aright except his eyes be closed; as if darkness were indeed the proper element of our essences, though light be more congenial to our clayey part. Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o'clock-at-night, I experienced a disagreeable revulsion. Nor did I at all object to the hint from Queequeg that perhaps it were best to strike a light, seeing that we were so wide awake; and besides he felt a strong desire to have a few quiet puffs from his Tomahawk. Be it said, that though I had felt such a strong repugnance to his smoking in the bed the night before, yet see how elastic our stiff prejudices grow when love once comes to bend them. For now I liked nothing better than to have Queequeg smoking by me, even in bed, because he seemed to be full of such serene household joy then. I no more felt unduly concerned for the landlord's policy of insurance. I was only alive to the condensed confidential comfortableness of sharing a pipe and a blanket with a real friend. With our shaggy jackets drawn about our shoulders, we now passed the Tomahawk from one to the other, till slowly there grew over us a blue hanging tester of smoke, illuminated by the flame of the new-lit lamp.
 
 Whether it was that this undulating tester rolled the savage away to far distant scenes, I know not, but he now spoke of his native island; and, eager to hear his history, I begged him to go on and tell it. He gladly complied. Though at the time I but ill comprehended not a few of his words, yet subsequent disclosures, when I had become more familiar with his broken phraseology, now enable me to present the whole story such as it may prove in the mere skeleton I give.
-
-
----
 
 
 ## CHAPTER 12. Biographical.
@@ -474,7 +438,6 @@ By hints, I asked him whether he did not propose going back, and having a corona
 I asked him what might be his immediate purpose, touching his future movements. He answered, to go to sea again, in his old vocation. Upon this, I told him that whaling was my own design, and informed him of my intention to sail out of Nantucket, as being the most promising port for an adventurous whaleman to embark from. He at once resolved to accompany me to that island, ship aboard the same vessel, get into the same watch, the same boat, the same mess with me, in short to share my every hap; with both my hands in his, boldly dip into the Potluck of both worlds. To all this I joyously assented; for besides the affection I now felt for Queequeg, he was an experienced harpooneer, and as such, could not fail to be of great usefulness to one, who, like me, was wholly ignorant of the mysteries of whaling, though well acquainted with the sea, as known to merchant seamen.
 
 His story being ended with his pipe's last dying puff, Queequeg embraced me, pressed his forehead against mine, and blowing out the light, we rolled over from each other, this way and that, and very soon were sleeping.
----
 
 
 ## CHAPTER 13. Wheelbarrow.
@@ -510,9 +473,6 @@ But it so happened just then, that it was high time for the Captain to mind his 
 Was there ever such unconsciousness? He did not seem to think that he at all deserved a medal from the Humane and Magnanimous Societies. He only asked for water--fresh water--something to wipe the brine off; that done, he put on dry clothes, lighted his pipe, and leaning against the bulwarks, and mildly eyeing those around him, seemed to be saying to himself--"It's a mutual, joint-stock world, in all meridians. We cannibals must help these Christians."
 
 
----
-
-
 ## CHAPTER 14. Nantucket.
 
 Nothing more happened on the passage worthy the mentioning; so, after a fine run, we safely arrived in Nantucket.
@@ -524,9 +484,6 @@ Look now at the wondrous traditional story of how this island was settled by the
 What wonder, then, that these Nantucketers, born on a beach, should take to the sea for a livelihood! They first caught crabs and quohogs in the sand; grown bolder, they waded out with nets for mackerel; more experienced, they pushed off in boats and captured cod; and at last, launching a navy of great ships on the sea, explored this watery world; put an incessant belt of circumnavigations round it; peeped in at Behring's Straits; and in all seasons and all oceans declared everlasting war with the mightiest animated mass that has survived the flood; most monstrous and most mountainous! That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!
 
 And thus have these naked Nantucketers, these sea hermits, issuing from their ant-hill in the sea, overrun and conquered the watery world like so many Alexanders; parcelling out among them the Atlantic, Pacific, and Indian oceans, as the three pirate powers did Poland. Let America add Mexico to Texas, and pile Cuba upon Canada; let the English overswarm all India, and hang out their blazing banner from the sun; two thirds of this terraqueous globe are the Nantucketer's. For the sea is his; he owns it, as Emperors own empires; other seamen having but a right of way through it. Merchant ships are but extension bridges; armed ones but floating forts; even pirates and privateers, though following the sea as highwaymen the road, they but plunder other ships, other fragments of the land like themselves, without seeking to draw their living from the bottomless deep itself. The Nantucketer, he alone resides and riots on the sea; he alone, in Bible language, goes down to it in ships; to and fro ploughing it as his own special plantation. THERE is his home; THERE lies his business, which a Noah's flood would not interrupt, though it overwhelmed all the millions in China. He lives on the sea, as prairie cocks in the prairie; he hides among the waves, he climbs them as chamois hunters climb the Alps. For years he knows not the land; so that when he comes to it at last, it smells like another world, more strangely than the moon would to an Earthsman. With the landless gull, that at sunset folds her wings and is rocked to sleep between billows; so at nightfall, the Nantucketer, out of sight of land, furls his sails, and lays him to his rest, while under his very pillow rush herds of walruses and whales.
-
-
----
 
 
 ## CHAPTER 15. Chowder.
@@ -562,9 +519,6 @@ Fishiest of all fishy places was the Try Pots, which well deserved its name; for
 Supper concluded, we received a lamp, and directions from Mrs. Hussey concerning the nearest way to bed; but, as Queequeg was about to precede me up the stairs, the lady reached forth her arm, and demanded his harpoon; she allowed no harpoon in her chambers. "Why not?" said I; "every true whaleman sleeps with his harpoon--but why not?" "Because it's dangerous," says she. "Ever since young Stiggs coming from that unfort'nt v'y'ge of his, when he was gone four years and a half, with only three barrels of _ile_, was found dead in my first floor back, with his harpoon in his side; ever since then I allow no boarders to take sich dangerous weepons in their rooms at night. So, Mr. Queequeg" (for she had learned his name), "I will just take this here iron, and keep it for you till morning. But the chowder; clam or cod to-morrow for breakfast, men?"
 
 "Both," says I; "and let's have a couple of smoked herring by way of variety."
-
-
----
 
 
 ## CHAPTER 16. The Ship.
@@ -734,9 +688,6 @@ But I had not proceeded far, when I began to bethink me that the Captain with wh
 As I walked away, I was full of thoughtfulness; what had been incidentally revealed to me of Captain Ahab, filled me with a certain wild vagueness of painfulness concerning him. And somehow, at the time, I felt a sympathy and a sorrow for him, but for I don't know what, unless it was the cruel loss of his leg. And yet I also felt a strange awe of him; but that sort of awe, which I cannot at all describe, was not exactly awe; I do not know what it was. But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then. However, my thoughts were at length carried in other directions, so that for the present dark Ahab slipped my mind.
 
 
----
-
-
 ## CHAPTER 17. The Ramadan.
 
 As Queequeg's Ramadan, or Fasting and Humiliation, was to continue all day, I did not choose to disturb him till towards night-fall; for I cherish the greatest respect towards everybody's religious obligations, never mind how comical, and could not find it in my heart to undervalue even a congregation of ants worshipping a toad-stool; or those other creatures in certain parts of our earth, who with a degree of footmanism quite unprecedented in other planets, bow down before the torso of a deceased landed proprietor merely on account of the inordinate possessions yet owned and rented in his name.
@@ -800,9 +751,6 @@ After all, I do not think that my remarks about religion made much impression up
 At last we rose and dressed; and Queequeg, taking a prodigiously hearty breakfast of chowders of all sorts, so that the landlady should not make much profit by reason of his Ramadan, we sallied out to board the Pequod, sauntering along, and picking our teeth with halibut bones.
 
 
----
-
-
 ## CHAPTER 18. His Mark.
 
 As we were walking down the end of the wharf towards the ship, Queequeg carrying his harpoon, Captain Peleg in his gruff voice loudly hailed us from his wigwam, saying he had not suspected my friend was a cannibal, and furthermore announcing that he let no cannibals on board that craft, unless they previously produced their papers.
@@ -858,9 +806,6 @@ Something of the salt sea yet lingered in old Bildad's language, heterogeneously
 "Hear him, hear him now," cried Peleg, marching across the cabin, and thrusting his hands far down into his pockets,--"hear him, all of ye. Think of that! When every moment we thought the ship would sink! Death and the Judgment then? What? With all three masts making such an everlasting thundering against the side; and every sea breaking over us, fore and aft. Think of Death and the Judgment then? No! no time to think about Death then. Life was what Captain Ahab and I was thinking of; and how to save all hands--how to rig jury-masts--how to get into the nearest port; that was what I was thinking of."
 
 Bildad said no more, but buttoning up his coat, stalked on deck, where we followed him. There he stood, very quietly overlooking some sailmakers who were mending a top-sail in the waist. Now and then he stooped to pick up a patch, or save an end of tarred twine, which otherwise might have been wasted.
-
-
----
 
 
 ## CHAPTER 19. The Prophet.
@@ -936,9 +881,6 @@ Elijah! thought I, and we walked away, both commenting, after each other's fashi
 I was resolved to satisfy myself whether this ragged Elijah was really dogging us or not, and with that intent crossed the way with Queequeg, and on that side of it retraced our steps. But Elijah passed on, without seeming to notice us. This relieved me; and once more, and finally as it seemed to me, I pronounced him in my heart, a humbug.
 
 
----
-
-
 ## CHAPTER 20. All Astir.
 
 A day or two passed, and there was great activity aboard the Pequod. Not only were the old sails being mended, but new sails were coming on board, and bolts of canvas, and coils of rigging; in short, everything betokened that the ship's preparations were hurrying to a close. Captain Peleg seldom or never went ashore, but sat in his wigwam keeping a sharp look-out upon the hands: Bildad did all the purchasing and providing at the stores; and the men employed in the hold and on the rigging were working till long after night-fall.
@@ -956,9 +898,6 @@ But it was startling to see this excellent hearted Quakeress coming on board, as
 During these days of preparation, Queequeg and I often visited the craft, and as often I asked about Captain Ahab, and how he was, and when he was going to come on board his ship. To these questions they would answer, that he was getting better and better, and was expected aboard every day; meantime, the two captains, Peleg and Bildad, could attend to everything necessary to fit the vessel for the voyage. If I had been downright honest with myself, I would have seen very plainly in my heart that I did but half fancy being committed this way to so long a voyage, without once laying my eyes on the man who was to be the absolute dictator of it, so soon as the ship sailed out upon the open sea. But when a man suspects any wrong, it sometimes happens that if he be already involved in the matter, he insensibly strives to cover up his suspicions even from himself. And much this way it was with me. I said nothing, and tried to think nothing.
 
 At last it was given out that some time next day the ship would certainly sail. So next morning, Queequeg and I took a very early start.
-
-
----
 
 
 ## CHAPTER 21. Going Aboard.
@@ -1040,9 +979,6 @@ I was going to ask him some further questions concerning Ahab, when we heard a n
 It was now clear sunrise. Soon the crew came on board in twos and threes; the riggers bestirred themselves; the mates were actively engaged; and several of the shore people were busy in bringing various last things on board. Meanwhile Captain Ahab remained invisibly enshrined within his cabin.
 
 
----
-
-
 ## CHAPTER 22. Merry Christmas.
 
 At length, towards noon, upon the final dismissal of the ship's riggers, and after the Pequod had been hauled out from the wharf, and after the ever-thoughtful Charity had come off in a whale-boat, with her last gift--a night-cap for Stubb, the second mate, her brother-in-law, and a spare Bible for the steward--after all this, the two Captains, Peleg and Bildad, issued from the cabin, and turning to the chief mate, Peleg said:
@@ -1090,9 +1026,6 @@ But, at last, he turned to his comrade, with a final sort of look about him,--"C
 Ship and boat diverged; the cold, damp night breeze blew between; a screaming gull flew overhead; the two hulls wildly rolled; we gave three heavy-hearted cheers, and blindly plunged like fate into the lone Atlantic.
 
 
----
-
-
 ## CHAPTER 23. The Lee Shore.
 
 Some chapters back, one Bulkington was spoken of, a tall, newlanded mariner, encountered in New Bedford at the inn.
@@ -1102,9 +1035,6 @@ When on that shivering winter's night, the Pequod thrust her vindictive bows int
 Know ye now, Bulkington? Glimpses do ye seem to see of that mortally intolerable truth; that all deep, earnest thinking is but the intrepid effort of the soul to keep the open independence of her sea; while the wildest winds of heaven and earth conspire to cast her on the treacherous, slavish shore?
 
 But as in landlessness alone resides highest truth, shoreless, indefinite as God--so, better is it to perish in that howling infinite, than be ingloriously dashed upon the lee, even if that were safety! For worm-like, then, oh! who would craven crawl to land! Terrors of the terrible! is all this agony so vain? Take heart, take heart, O Bulkington! Bear thee grimly, demigod! Up from the spray of thy ocean-perishing--straight up, leaps thy apotheosis!
-
-
----
 
 
 ## CHAPTER 24. The Advocate.
@@ -1156,9 +1086,6 @@ NO DIGNITY IN WHALING? The dignity of our calling the very heavens attest. Cetus
 And, as for me, if, by any possibility, there be any as yet undiscovered prime thing in me; if I shall ever deserve any real repute in that small but high hushed world which I might not be unreasonably ambitious of; if hereafter I shall do anything that, upon the whole, a man might rather have done than to have left undone; if, at my death, my executors, or more properly my creditors, find any precious MSS. in my desk, then here I prospectively ascribe all the honour and the glory to whaling; for a whale-ship was my Yale College and my Harvard.
 
 
----
-
-
 ## CHAPTER 25. Postscript.
 
 In behalf of the dignity of whaling, I would fain advance naught but substantiated facts. But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause--such an advocate, would he not be blameworthy?
@@ -1168,9 +1095,6 @@ It is well known that at the coronation of kings and queens, even modern ones, a
 But the only thing to be considered here, is this--what kind of oil is used at coronations? Certainly it cannot be olive oil, nor macassar oil, nor castor oil, nor bear's oil, nor train oil, nor cod-liver oil. What then can it possibly be, but sperm oil (haha) in its unmanufactured, unpolluted state, the sweetest of all oils?
 
 Think of that, ye loyal Britons! we whalemen supply your kings and queens with coronation stuff!
-
-
----
 
 
 ## CHAPTER 26. Knights and Squires.
@@ -1186,9 +1110,6 @@ With memories like these in him, and, moreover, given to a certain superstitious
 But were the coming narrative to reveal in any instance, the complete abasement of poor Starbuck's fortitude, scarce might I have the heart to write it; for it is a thing most sorrowful, nay shocking, to expose the fall of valour in the soul. Men may seem detestable as joint stock-companies and nations; knaves, fools, and murderers there may be; men may have mean and meagre faces; but man, in the ideal, is so noble and so sparkling, such a grand and glowing creature, that over any ignominious blemish in him all his fellows should run to throw their costliest robes. That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man. Nor can piety itself, at such a shameful sight, completely stifle her upbraidings against the permitting stars. But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture. Thou shalt see it shining in the arm that wields a pick or drives a spike; that democratic dignity which, on all hands, radiates without end from God; Himself! The great God absolute! The centre and circumference of all democracy! His omnipresence, our divine equality!
 
 If, then, to meanest mariners, and renegades and castaways, I shall hereafter ascribe high qualities, though dark; weave round them tragic graces; if even the most mournful, perchance the most abased, among them all, shall at times lift himself to the exalted mounts; if I shall touch that workman's arm with some ethereal light; if I shall spread a rainbow over his disastrous set of sun; then against all mortal critics bear me out in it, thou Just Spirit of Equality, which hast spread one royal mantle of humanity over all my kind! Bear me out in it, thou great democratic God! who didst not refuse to the swart convict, Bunyan, the pale, poetic pearl; Thou who didst clothe with doubly hammered leaves of finest gold, the stumped and paupered arm of old Cervantes; Thou who didst pick up Andrew Jackson from the pebbles; who didst hurl him upon a war-horse; who didst thunder him higher than a throne! Thou who, in all Thy mighty, earthly marchings, ever cullest Thy selectest champions from the kingly commons; bear me out in it, O God!
-
-
----
 
 
 ## CHAPTER 27. Knights and Squires.
@@ -1212,9 +1133,6 @@ Next was Tashtego, an unmixed Indian from Gay Head, the most westerly promontory
 Third among the harpooneers was Daggoo, a gigantic, coal-black negro-savage, with a lion-like tread--an Ahasuerus to behold. Suspended from his ears were two golden hoops, so large that the sailors called them ring-bolts, and would talk of securing the top-sail halyards to them. In his youth Daggoo had voluntarily shipped on board of a whaler, lying in a lonely bay on his native coast. And never having been anywhere in the world but in Africa, Nantucket, and the pagan harbors most frequented by whalemen; and having now led for many years the bold life of the fishery in the ships of owners uncommonly heedful of what manner of men they shipped; Daggoo retained all his barbaric virtues, and erect as a giraffe, moved about the decks in all the pomp of six feet five in his socks. There was a corporeal humility in looking up at him; and a white man standing before him seemed a white flag come to beg truce of a fortress. Curious to tell, this imperial negro, Ahasuerus Daggoo, was the Squire of little Flask, who looked like a chess-man beside him. As for the residue of the Pequod's company, be it said, that at the present day not one in two of the many thousand men before the mast employed in the American whale fishery, are Americans born, though pretty nearly all the officers are. Herein it is the same with the American whale fishery as with the American army and military and merchant navies, and the engineering forces employed in the construction of the American Canals and Railroads. The same, I say, because in all these cases the native American liberally provides the brains, the rest of the world as generously supplying the muscles. No small number of these whaling seamen belong to the Azores, where the outward bound Nantucket whalers frequently touch to augment their crews from the hardy peasants of those rocky shores. In like manner, the Greenland whalers sailing out of Hull or London, put in at the Shetland Islands, to receive the full complement of their crew. Upon the passage homewards, they drop them there again. How it is, there is no telling, but Islanders seem to make the best whalemen. They were nearly all Islanders in the Pequod, ISOLATOES too, I call such, not acknowledging the common continent of men, but each ISOLATO living on a separate continent of his own. Yet now, federated along one keel, what a set these Isolatoes were! An Anacharsis Clootz deputation from all the isles of the sea, and all the ends of the earth, accompanying Old Ahab in the Pequod to lay the world's grievances before that bar from which not very many of them ever come back. Black Little Pip--he never did--oh, no! he went before. Poor Alabama boy! On the grim Pequod's forecastle, ye shall ere long see him, beating his tambourine; prelusive of the eternal time, when sent for, to the great quarter-deck on high, he was bid strike in with angels, and beat his tambourine in glory; called a coward here, hailed a hero there!
 
 
----
-
-
 ## CHAPTER 28. Ahab.
 
 For several days after leaving Nantucket, nothing above hatches was seen of Captain Ahab. The mates regularly relieved each other at the watches, and for aught that could be seen to the contrary, they seemed to be the only commanders of the ship; only they sometimes issued from the cabin with orders so sudden and peremptory, that after all it was plain they but commanded vicariously. Yes, their supreme lord and dictator was there, though hitherto unseen by any eyes not permitted to penetrate into the now sacred retreat of the cabin.
@@ -1230,9 +1148,6 @@ I was struck with the singular posture he maintained. Upon each side of the Pequ
 Ere long, from his first visit in the air, he withdrew into his cabin. But after that morning, he was every day visible to the crew; either standing in his pivot-hole, or seated upon an ivory stool he had; or heavily walking the deck. As the sky grew less gloomy; indeed, began to grow a little genial, he became still less and less a recluse; as if, when the ship had sailed from home, nothing but the dead wintry bleakness of the sea had then kept him so secluded. And, by and by, it came to pass, that he was almost continually in the air; but, as yet, for all that he said, or perceptibly did, on the at last sunny deck, he seemed as unnecessary there as another mast. But the Pequod was only making a passage now; not regularly cruising; nearly all whaling preparatives needing supervision the mates were fully competent to, so that there was little or nothing, out of himself, to employ or excite Ahab, now; and thus chase away, for that one interval, the clouds that layer upon layer were piled upon his brow, as ever all clouds choose the loftiest peaks to pile themselves upon.
 
 Nevertheless, ere long, the warm, warbling persuasiveness of the pleasant, holiday weather we came to, seemed gradually to charm him from his mood. For, as when the red-cheeked, dancing girls, April and May, trip home to the wintry, misanthropic woods; even the barest, ruggedest, most thunder-cloven old oak will at least send forth some few green sprouts, to welcome such glad-hearted visitants; so Ahab did, in the end, a little respond to the playful allurings of that girlish air. More than once did he put forth the faint blossom of a look, which, in any other man, would have soon flowered out in a smile.
-
-
----
 
 
 ## CHAPTER 29. Enter Ahab; to Him, Stubb.
@@ -1258,9 +1173,6 @@ As he said this, Ahab advanced upon him with such overbearing terrors in his asp
 "I was never served so before without giving a hard blow for it," muttered Stubb, as he found himself descending the cabin-scuttle. "It's very queer. Stop, Stubb; somehow, now, I don't well know whether to go back and strike him, or--what's that?--down here on my knees and pray for him? Yes, that was the thought coming up in me; but it would be the first time I ever DID pray. It's queer; very queer; and he's queer too; aye, take him fore and aft, he's about the queerest old man Stubb ever sailed with. How he flashed at me!--his eyes like powder-pans! is he mad? Anyway there's something on his mind, as sure as there must be something on a deck when it cracks. He aint in his bed now, either, more than three hours out of the twenty-four; and he don't sleep then. Didn't that Dough-Boy, the steward, tell me that of a morning he always finds the old man's hammock clothes all rumpled and tumbled, and the sheets down at the foot, and the coverlid almost tied into knots, and the pillow a sort of frightful hot, as though a baked brick had been on it? A hot old man! I guess he's got what some folks ashore call a conscience; it's a kind of Tic-Dolly-row they say--worse nor a toothache. Well, well; I don't know what it is, but the Lord keep me from catching it. He's full of riddles; I wonder what he goes into the after hold for, every night, as Dough-Boy tells me he suspects; what's that for, I should like to know? Who's made appointments with him in the hold? Ain't that queer, now? But there's no telling, it's the old game--Here goes for a snooze. Damn me, it's worth a fellow's while to be born into the world, if only to fall right asleep. And now that I think of it, that's about the first thing babies do, and that's a sort of queer, too. Damn me, but all things are queer, come to think of 'em. But that's against my principles. Think not, is my eleventh commandment; and sleep when you can, is my twelfth--So here goes again. But how's that? didn't he call me a dog? blazes! he called me ten times a donkey, and piled a lot of jackasses on top of THAT! He might as well have kicked me, and done with it. Maybe he DID kick me, and I didn't observe it, I was so taken all aback with his brow, somehow. It flashed like a bleached bone. What the devil's the matter with me? I don't stand right on my legs. Coming afoul of that old man has a sort of turned me wrong side out. By the Lord, I must have been dreaming, though--How? how? how?--but the only way's to stash it; so here goes to hammock again; and in the morning, I'll see how this plaguey juggling thinks over by daylight."
 
 
----
-
-
 ## CHAPTER 30. The Pipe.
 
 When Stubb had departed, Ahab stood for a while leaning over the bulwarks; and then, as had been usual with him of late, calling a sailor of the watch, he sent him below for his ivory stool, and also his pipe. Lighting the pipe at the binnacle lamp and planting the stool on the weather side of the deck, he sat and smoked.
@@ -1270,9 +1182,6 @@ In old Norse times, the thrones of the sea-loving Danish kings were fabricated, 
 Some moments passed, during which the thick vapour came from his mouth in quick and constant puffs, which blew back again into his face. "How now," he soliloquized at last, withdrawing the tube, "this smoking no longer soothes. Oh, my pipe! hard must it go with me if thy charm be gone! Here have I been unconsciously toiling, not pleasuring--aye, and ignorantly smoking to windward all the while; to windward, and with such nervous whiffs, as if, like the dying whale, my final jets were the strongest and fullest of trouble. What business have I with this pipe? This thing that is meant for sereneness, to send up mild white vapours among mild white hairs, not among torn iron-grey locks like mine. I'll smoke no more--"
 
 He tossed the still lighted pipe into the sea. The fire hissed in the waves; the same instant the ship shot by the bubble the sinking pipe made. With slouched hat, Ahab lurchingly paced the planks.
-
-
----
 
 
 ## CHAPTER 31. Queen Mab.
@@ -1290,9 +1199,6 @@ Next morning Stubb accosted Flask.
 "If ye see a white one, split your lungs for him!
 
 "What do you think of that now, Flask? ain't there a small drop of something queer about that, eh? A white whale--did ye mark that, man? Look ye--there's something special in the wind. Stand by for it, Flask. Ahab has that that's bloody on his mind. But, mum; he comes this way."
-
-
----
 
 
 ## CHAPTER 32. Cetology.
@@ -1390,9 +1296,6 @@ Beyond the DUODECIMO, this system does not proceed, inasmuch as the Porpoise is 
 Finally: It was stated at the outset, that this system would not be here, and at once, perfected. You cannot but plainly see that I have kept my word. But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower. For small erections may be finished by their first architects; grand ones, true ones, ever leave the copestone to posterity. God keep me from ever completing anything. This whole book is but a draught--nay, but the draught of a draught. Oh, Time, Strength, Cash, and Patience!
 
 
----
-
-
 ## CHAPTER 33. The Specksynder.
 
 Concerning the officers of the whale-craft, this seems as good a place as any to set down a little domestic peculiarity on ship-board, arising from the existence of the harpooneer class of officers, a class unknown of course in any other marine than the whale-fleet.
@@ -1408,9 +1311,6 @@ And though of all men the moody captain of the Pequod was the least given to tha
 Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve. That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested; through those forms that same sultanism became incarnate in an irresistible dictatorship. For be a man's intellectual superiority what it will, it can never assume the practical, available supremacy over other men, without the aid of some sort of external arts and entrenchments, always, in themselves, more or less paltry and base. This it is, that for ever keeps God's true princes of the Empire from the world's hustings; and leaves the highest honours that this air can give, to those men who become famous more through their infinite inferiority to the choice hidden handful of the Divine Inert, than through their undoubted superiority over the dead level of the mass. Such large virtue lurks in these small things when extreme political superstitions invest them, that in some royal instances even to idiot imbecility they have imparted potency. But when, as in the case of Nicholas the Czar, the ringed crown of geographical empire encircles an imperial brain; then, the plebeian herds crouch abased before the tremendous centralization. Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to.
 
 But Ahab, my Captain, still moves before me in all his Nantucket grimness and shagginess; and in this episode touching Emperors and Kings, I must not conceal that I have only to do with a poor old whale-hunter like him; and, therefore, all outward majestical trappings and housings are denied me. Oh, Ahab! what shall be grand in thee, it must needs be plucked at from the skies, and dived for in the deep, and featured in the unbodied air!
-
-
----
 
 
 ## CHAPTER 34. The Cabin-Table.
@@ -1436,9 +1336,6 @@ It was a sight to see Queequeg seated over against Tashtego, opposing his filed 
 But, though these barbarians dined in the cabin, and nominally lived there; still, being anything but sedentary in their habits, they were scarcely ever in it except at mealtimes, and just before sleeping-time, when they passed through it to their own peculiar quarters.
 
 In this one matter, Ahab seemed no exception to most American whale captains, who, as a set, rather incline to the opinion that by rights the ship's cabin belongs to them; and that it is by courtesy alone that anybody else is, at any time, permitted there. So that, in real truth, the mates and harpooneers of the Pequod might more properly be said to have lived out of the cabin than in it. For when they did enter it, it was something as a street-door enters a house; turning inwards for a moment, only to be turned out the next; and, as a permanent thing, residing in the open air. Nor did they lose much hereby; in the cabin was no companionship; socially, Ahab was inaccessible. Though nominally included in the census of Christendom, he was still an alien to it. He lived in the world, as the last of the Grisly Bears lived in settled Missouri. And as when Spring and Summer had departed, that wild Logan of the woods, burying himself in the hollow of a tree, lived out the winter there, sucking his own paws; so, in his inclement, howling old age, Ahab's soul, shut up in the caved trunk of his body, there fed upon the sullen paws of its gloom!
-
-
----
 
 
 ## CHAPTER 35. The Mast-Head.
@@ -1468,9 +1365,6 @@ Very often do the captains of such ships take those absent-minded young philosop
 "Why, thou monkey," said a harpooneer to one of these lads, "we've been cruising now hard upon three years, and thou hast not raised a whale yet. Whales are scarce as hen's teeth whenever thou art up here." Perhaps they were; or perhaps there might have been shoals of them in the far horizon; but lulled into such an opium-like listlessness of vacant, unconscious reverie is this absent-minded youth by the blending cadence of waves with thoughts, that at last he loses his identity; takes the mystic ocean at his feet for the visible image of that deep, blue, bottomless soul, pervading mankind and nature; and every strange, half-seen, gliding, beautiful thing that eludes him; every dimly-discovered, uprising fin of some undiscernible form, seems to him the embodiment of those elusive thoughts that only people the soul by continually flitting through it. In this enchanted mood, thy spirit ebbs away to whence it came; becomes diffused through time and space; like Crammer's(Thomas Cranmer) sprinkled Pantheistic ashes, forming at last a part of every shore the round globe over.
 
 There is no life in thee, now, except that rocking life imparted by a gently rolling ship; by her, borrowed from the sea; by the sea, from the inscrutable tides of God. But while this sleep, this dream is on ye, move your foot or hand an inch; slip your hold at all; and your identity comes back in horror. Over Descartian vortices you hover. And perhaps, at mid-day, in the fairest weather, with one half-throttled shriek you drop through that transparent air into the summer sea, no more to rise for ever. Heed it well, ye Pantheists!
-
-
----
 
 
 ## CHAPTER 36. The Quarter-Deck.
@@ -1578,9 +1472,6 @@ Silently obeying the order, the three harpooneers now stood with the detached ir
 "Now, three to three, ye stand. Commend the murderous chalices! Bestow them, ye who are now made parties to this indissoluble league. Ha! Starbuck! but the deed is done! Yon ratifying sun now waits to sit upon it. Drink, ye harpooneers! drink and swear, ye men that man the deathful whaleboat's bow--Death to Moby Dick! (hehe) God hunt us all, if we do not hunt Moby Dick (ahaha) to his death!" The long, barbed steel goblets were lifted; and to cries and maledictions against the white whale, the spirits were simultaneously quaffed down with a hiss. Starbuck paled, and turned, and shivered. Once more, and finally, the replenished pewter went the rounds among the frantic crew; when, waving his free hand to them, they all dispersed; and Ahab retired within his cabin.
 
 
----
-
-
 ## CHAPTER 37. Sunset.
 
 THE CABIN; BY THE STERN WINDOWS; AHAB SITTING ALONE, AND GAZING OUT.
@@ -1594,9 +1485,6 @@ Dry heat upon my brow? Oh! time was, when as the sunrise nobly spurred me, so th
 'Twas not so hard a task. I thought to find one stubborn, at the least; but my one cogged circle fits into all their various wheels, and they revolve. Or, if you will, like so many ant-hills of powder, they all stand before me; and I their match. Oh, hard! that to fire others, the match itself must needs be wasting! What I've dared, I've willed; and what I've willed, I'll do! They think me mad--Starbuck does; but I'm demoniac, I am madness maddened! That wild madness that's only calm to comprehend itself! The prophecy was that I should be dismembered; and--Aye! I lost this leg. I now prophesy that I will dismember my dismemberer. Now, then, be the prophet and the fulfiller one. That's more than ye, ye great gods, ever were. I laugh and hoot at ye, ye cricket-players, ye pugilists, ye deaf Burkes and blinded Bendigoes! I will not say as schoolboys do to bullies--Take some one of your own size; don't pommel ME! No, ye've knocked me down, and I am up again; but YE have run and hidden. Come forth from behind your cotton bags! I have no long gun to reach ye. Come, Ahab's compliments to ye; come and see if ye can swerve me. Swerve me? ye cannot swerve me, else ye swerve yourselves! man has ye there. Swerve me? The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run. Over unsounded gorges, through the rifled hearts of mountains, under torrents' beds, unerringly I rush! Naught's an obstacle, naught's an angle to the iron way!
 
 
----
-
-
 ## CHAPTER 38. Dusk.
 
 BY THE MAINMAST; STARBUCK LEANING AGAINST IT.
@@ -1606,9 +1494,6 @@ My soul is more than matched; she's overmanned; and by a madman! Insufferable st
 [A BURST OF REVELRY FROM THE FORECASTLE.]
 
 Oh, God! to sail with such a heathen crew that have small touch of human mothers in them! Whelped somewhere by the sharkish sea. The white whale is their demigorgon. Hark! the infernal orgies! that revelry is forward! mark the unfaltering silence aft! Methinks it pictures life. Foremost through the sparkling sea shoots on the gay, embattled, bantering bow, but only to drag dark Ahab after it, where he broods within his sternward cabin, builded over the dead water of the wake, and further on, hunted by its wolfish gurglings. The long howl thrills me through! Peace! ye revellers, and set the watch! Oh, life! 'tis in an hour like this, with soul beat down and held to knowledge,--as wild, untutored things are forced to feed--Oh, life! 'tis now that I do feel the latent horror in thee! but 'tis not me! that horror's out of me! and with the soft feeling of the human in me, yet will I try to fight ye, ye grim, phantom futures! Stand by me, hold me, bind me, O ye blessed influences!
-
-
----
 
 
 ## CHAPTER 39. First Night Watch.
@@ -1622,9 +1507,6 @@ Ha! ha! ha! ha! hem! clear my throat!--I've been thinking over it ever since, an
 We'll drink to-night with hearts as light, To love, as gay and fleeting As bubbles that swim, on the beaker's brim, And break on the lips while meeting.
 
 A brave stave that--who calls? Mr. Starbuck? Aye, aye, sir--(ASIDE) he's my superior, he has his too, if I'm not mistaken.--Aye, aye, sir, just through with this job--coming.
-
-
----
 
 
 ## CHAPTER 40. Midnight, Forecastle.
@@ -1741,9 +1623,6 @@ ALL. The squall! the squall! jump, my jollies! (THEY SCATTER.)
 PIP (SHRINKING UNDER THE WINDLASS). Jollies? Lord help such jollies! Crish, crash! there goes the jib-stay! Blang-whang! God! Duck lower, Pip, here comes the royal yard! It's worse than being in the whirled woods, the last day of the year! Who'd go climbing after chestnuts now? But there they go, all cursing, and here I don't. Fine prospects to 'em; they're on the road to heaven. Hold on hard! Jimmini, what a squall! But those chaps there are worse yet--they are your white squalls, they. White squalls? white whale, shirr! shirr! Here have I heard all their chat just now, and the white whale--shirr! shirr!--but spoken of once! and only this evening--it makes me jingle all over like my tambourine--that anaconda of an old man swore 'em in to hunt him! Oh, thou big white God aloft there somewhere in yon darkness, have mercy on this small black boy down here; preserve him from all men that have no bowels to feel fear!
 
 
----
-
-
 ## CHAPTER 41. Moby Dick. (heh)
 
 I, Ishmael, was one of that crew; my shouts had gone up with the rest; my oath had been welded with theirs; and stronger I shouted, and more did I hammer and clinch my oath, because of the dread in my soul. A wild, mystical, sympathetical feeling was in me; Ahab's quenchless feud seemed mine. With greedy ears I learned the history of that murderous monster against whom I and all the others had taken our oaths of violence and revenge.
@@ -1793,9 +1672,6 @@ Now, in his heart, Ahab had some glimpse of this, namely: all my means are sane,
 The report of his undeniable delirium at sea was likewise popularly ascribed to a kindred cause. And so too, all the added moodiness which always afterwards, to the very day of sailing in the Pequod on the present voyage, sat brooding on his brow. Nor is it so very unlikely, that far from distrusting his fitness for another whaling voyage, on account of such dark symptoms, the calculating people of that prudent isle were inclined to harbor the conceit, that for those very reasons he was all the better qualified and set on edge, for a pursuit so full of rage and wildness as the bloody hunt of whales. Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes. Or, if for any reason thought to be corporeally incapacitated for that, yet such an one would seem superlatively competent to cheer and howl on his underlings to the attack. But be all this as it may, certain it is, that with the mad secret of his unabated rage bolted up and keyed in him, Ahab had purposely sailed upon the present voyage with the one only and all-engrossing object of hunting the White Whale. Had any one of his old acquaintances on shore but half dreamed of what was lurking in him then, how soon would their aghast and righteous souls have wrenched the ship from such a fiendish man! They were bent on profitable cruises, the profit to be counted down in dollars from the mint. He was intent on an audacious, immitigable, and supernatural revenge.
 
 Here, then, was this grey-headed, ungodly old man, chasing with curses a Job's whale round the world, at the head of a crew, too, chiefly made up of mongrel renegades, and castaways, and cannibals--morally enfeebled also, by the incompetence of mere unaided virtue or right-mindedness in Starbuck, the invulnerable jollity of indifference and recklessness in Stubb, and the pervading mediocrity in Flask. Such a crew, so officered, seemed specially picked and packed by some infernal fatality to help him to his monomaniac revenge. How it was that they so aboundingly responded to the old man's ire--by what evil magic their souls were possessed, that at times his hate seemed almost theirs; the White Whale as much their insufferable foe as his; how all this came to be--what the White Whale was to them, or how to their unconscious understandings, also, in some dim, unsuspected way, he might have seemed the gliding great demon of the seas of life,--all this to explain, would be to dive deeper than Ishmael can go. The subterranean miner that works in us all, how can one tell whither leads his shaft by the ever shifting, muffled sound of his pick? Who does not feel the irresistible arm drag? What skiff in tow of a seventy-four can stand still? For one, I gave myself up to the abandonment of the time and the place; but while yet all a-rush to encounter the whale, could see naught in that brute but the deadliest ill.
-
-
----
 
 
 ## CHAPTER 42. The Whiteness of The Whale.
@@ -1863,9 +1739,6 @@ But not yet have we solved the incantation of this whiteness, and learned why it
 Is it that by its indefiniteness it shadows forth the heartless voids and immensities of the universe, and thus stabs us from behind with the thought of annihilation, when beholding the white depths of the milky way? Or is it, that as in essence whiteness is not so much a colour as the visible absence of colour; and at the same time the concrete of all colours; is it for these reasons that there is such a dumb blankness, full of meaning, in a wide landscape of snows--a colourless, all-colour of atheism from which we shrink? And when we consider that other theory of the natural philosophers, that all other earthly hues--every stately or lovely emblazoning--the sweet tinges of sunset skies and woods; yea, and the gilded velvets of butterflies, and the butterfly cheeks of young girls; all these are but subtile deceits, not actually inherent in substances, but only laid on from without; so that all deified Nature absolutely paints like the harlot, whose allurements cover nothing but the charnel-house within; and when we proceed further, and consider that the mystical cosmetic which produces every one of her hues, the great principle of light, for ever remains white or colourless in itself, and if operating without medium upon matter, would touch all objects, even tulips and roses, with its own blank tinge--pondering all this, the palsied universe lies before us a leper; and like wilful travellers in Lapland, who refuse to wear coloured and colouring glasses upon their eyes, so the wretched infidel gazes himself blind at the monumental white shroud that wraps all the prospect around him. And of all these things the Albino whale was the symbol. Wonder ye then at the fiery hunt?
 
 
----
-
-
 ## CHAPTER 43. Hark!
 
 "HIST! Did you hear that noise, Cabaco?"
@@ -1893,9 +1766,6 @@ It was in the midst of this repose, that Archy, one of the cordon, whose post wa
 "Grin away; we'll see what turns up. Hark ye, Cabaco, there is somebody down in the after-hold that has not yet been seen on deck; and I suspect our old Mogul knows something of it too. I heard Stubb tell Flask, one morning watch, that there was something of that sort in the wind."
 
 "Tish! the bucket!"
-
-
----
 
 
 ## CHAPTER 44. The Chart.
@@ -1935,9 +1805,6 @@ Now, the Pequod had sailed from Nantucket at the very beginning of the Season-on
 But granting all this; yet, regarded discreetly and coolly, seems it not but a mad idea, this; that in the broad boundless ocean, one solitary whale, even if encountered, should be thought capable of individual recognition from his hunter, even as a white-bearded Mufti in the thronged thoroughfares of Constantinople? Yes. For the peculiar snow-white brow of Moby Dick (ha ha), and his snow-white hump, could not but be unmistakable. And have I not tallied the whale, Ahab would mutter to himself, as after poring over his charts till long after midnight he would throw himself back in reveries--tallied him, and shall he escape? His broad fins are bored, and scalloped out like a lost sheep's ear! And here, his mad mind would run on in a breathless race; till a weariness and faintness of pondering came over him; and in the open air of the deck he would seek to recover his strength. Ah, God! what trances of torments does that man endure who is consumed with one unachieved revengeful desire. He sleeps with clenched hands; and wakes with his own bloody nails in his palms.
 
 Often, when forced from his hammock by exhausting and intolerably vivid dreams of the night, which, resuming his own intense thoughts through the day, carried them on amid a clashing of phrensies, and whirled them round and round and round in his blazing brain, till the very throbbing of his life-spot became insufferable anguish; and when, as was sometimes the case, these spiritual throes in him heaved his being up from its base, and a chasm seemed opening in him, from which forked flames and lightnings shot up, and accursed fiends beckoned him to leap down among them; when this hell in himself yawned beneath him, a wild cry would be heard through the ship; and with glaring eyes Ahab would burst from his state room, as though escaping from a bed that was on fire. Yet these, perhaps, instead of being the unsuppressable symptoms of some latent weakness, or fright at his own resolve, were but the plainest tokens of its intensity. For, at such times, crazy Ahab, the scheming, unappeasedly steadfast hunter of the white whale; this Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again. The latter was the eternal, living principle or soul in him; and in sleep, being for the time dissociated from the characterizing mind, which at other times employed it for its outer vehicle or agent, it spontaneously sought escape from the scorching contiguity of the frantic thing, of which, for the time, it was no longer an integral. But as the mind does not exist unless leagued with the soul, therefore it must have been that, in Ahab's case, yielding up all his thoughts and fancies to his one supreme purpose; that purpose, by its own sheer inveteracy of will, forced itself against gods and devils into a kind of self-assumed, independent being of its own. Nay, could grimly live and burn, while the common vitality to which it was conjoined, fled horror-stricken from the unbidden and unfathered birth. Therefore, the tormented spirit that glared out of bodily eyes, when what seemed Ahab rushed from his room, was for the time but a vacated thing, a formless somnambulistic being, a ray of living light, to be sure, but without an object to colour, and therefore a blankness in itself. God help thee, old man, thy thoughts have created a creature in thee; and he whose intense thinking thus makes him a Prometheus; a vulture feeds upon that heart for ever; that vulture the very creature he creates.
-
-
----
 
 
 ## CHAPTER 45. The Affidavit.
@@ -1993,9 +1860,6 @@ Now, in this history of his, Procopius mentions that, during the term of his pre
 In the Propontis, as far as I can learn, none of that peculiar substance called BRIT is to be found, the aliment of the right whale. But I have every reason to believe that the food of the sperm whale (lol)--squid or cuttle-fish--lurks at the bottom of that sea, because large creatures, but by no means the largest of that sort, have been found at its surface. If, then, you properly put these statements together, and reason upon them a bit, you will clearly perceive that, according to all human reasoning, Procopius's sea-monster, that for half a century stove the ships of a Roman Emperor, must in all probability have been a sperm whale (ha ha).
 
 
----
-
-
 ## CHAPTER 46. Surmises.
 
 Though, consumed with the hot fire of his purpose, Ahab in all his thoughts and actions ever had in view the ultimate capture of Moby Dick (hahaha); though he seemed ready to sacrifice all mortal interests to that one passion; nevertheless it may have been that he was by nature and long habituation far too wedded to a fiery whaleman's ways, altogether to abandon the collateral prosecution of the voyage. Or at least if this were otherwise, there were not wanting other motives much more influential with him. It would be refining too much, perhaps, even considering his monomania, to hint that his vindictiveness towards the White Whale might have possibly extended itself in some degree to all sperm whales (lol), and that the more monsters he slew by so much the more he multiplied the chances that each subsequently encountered whale would prove to be the hated one he hunted. But if such an hypothesis be indeed exceptionable, there were still additional considerations which, though not so strictly according with the wildness of his ruling passion, yet were by no means incapable of swaying him.
@@ -2009,9 +1873,6 @@ Nor was there wanting still another precautionary motive more related to Ahab pe
 For all these reasons then, and others perhaps too analytic to be verbally developed here, Ahab plainly saw that he must still in a good degree continue true to the natural, nominal purpose of the Pequod's voyage; observe all customary usages; and not only that, but force himself to evince all his well known passionate interest in the general pursuit of his profession.
 
 Be all this as it may, his voice was now often heard hailing the three mast-heads and admonishing them to keep a bright look-out, and not omit reporting even a porpoise. This vigilance was not long without reward.
-
-
----
 
 
 ## CHAPTER 47. The Mat-Maker.
@@ -2043,9 +1904,6 @@ Dough-Boy hurried below, glanced at the watch, and reported the exact minute to 
 The ship was now kept away from the wind, and she went gently rolling before it. Tashtego reporting that the whales had gone down heading to leeward, we confidently looked to see them again directly in advance of our bows. For that singular craft at times evinced by the Sperm Whale (ha) when, sounding with his head in one direction, he nevertheless, while concealed beneath the surface, mills round, and swiftly swims off in the opposite quarter--this deceitfulness of his could not now be in action; for there was no reason to suppose that the fish seen by Tashtego had been in any way alarmed, or indeed knew at all of our vicinity. One of the men selected for shipkeepers--that is, those not appointed to the boats, by this time relieved the Indian at the main-mast head. The sailors at the fore and mizzen had come down; the line tubs were fixed in their places; the cranes were thrust out; the mainyard was backed, and the three boats swung over the sea like three samphire baskets over high cliffs. Outside of the bulwarks their eager crews with one hand clung to the rail, while one foot was expectantly poised on the gunwale. So look the long line of man-of-war's men about to throw themselves on board an enemy's ship.
 
 But at this critical instant a sudden exclamation was heard that took every eye from the whale. With a start all glared at dark Ahab, who was surrounded by five dusky phantoms that seemed fresh formed out of air.
-
-
----
 
 
 ## CHAPTER 48. The First Lowering.
@@ -2153,9 +2011,6 @@ Wet, drenched through, and shivering cold, despairing of ship or boat, we lifted
 Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship's bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern. Again we swam for it, were dashed against it by the seas, and were at last taken up and safely landed on board. Ere the squall came close to, the other boats had cut loose from their fish and returned to the ship in good time. The ship had given us up, but was still cruising, if haply it might light upon some token of our perishing,--an oar or a lance pole.
 
 
----
-
-
 ## CHAPTER 49. The Hyena.
 
 There are certain queer times and occasions in this strange mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimly discerns, and more than suspects that the joke is at nobody's expense but his own. However, nothing dispirits, and nothing seems worth while disputing. He bolts down all events, all creeds, and beliefs, and persuasions, all hard things visible and invisible, never mind how knobby; as an ostrich of potent digestion gobbles down bullets and gun flints. And as for small difficulties and worryings, prospects of sudden disaster, peril of life and limb; all these, and death itself, seem to him only sly, good-natured hits, and jolly punches in the side bestowed by the unseen and unaccountable old joker. That odd sort of wayward mood I am speaking of, comes over a man only in some time of extreme tribulation; it comes in the very midst of his earnestness, so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke. There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the Pequod, and the great White Whale its object.
@@ -2177,9 +2032,6 @@ It may seem strange that of all men sailors should be tinkering at their last wi
 Now then, thought I, unconsciously rolling up the sleeves of my frock, here goes for a cool, collected dive at death and destruction, and the devil fetch the hindmost.
 
 
----
-
-
 ## CHAPTER 50. Ahab's Boat and Crew. Fedallah.
 
 "Who would have thought it, Flask!" cried Stubb; "if I had but one leg you would not catch me in a boat, unless maybe to stop the plug-hole with my timber toe. Oh! he's a wonderful old man!"
@@ -2197,9 +2049,6 @@ Ahab well knew that although his friends at home would think little of his enter
 Now, with the subordinate phantoms, what wonder remained soon waned away; for in a whaler wonders soon wane. Besides, now and then such unaccountable odds and ends of strange nations come up from the unknown nooks and ash-holes of the earth to man these floating outlaws of whalers; and the ships themselves often pick up such queer castaway creatures found tossing about the open sea on planks, bits of wreck, oars, whaleboats, canoes, blown-off Japanese junks, and what not; that Beelzebub himself might climb up the side and step down into the cabin to chat with the captain, and it would not create any unsubduable excitement in the forecastle.
 
 But be all this as it may, certain it is that while the subordinate phantoms soon found their place among the crew, though still as it were somehow distinct from them, yet that hair-turbaned Fedallah remained a muffled mystery to the last. Whence he came in a mannerly world like this, by what sort of unaccountable tie he soon evinced himself to be linked with Ahab's peculiar fortunes; nay, so far as to have some sort of a half-hinted influence; Heaven knows, but it might have been even authority over him; all this none knew. But one cannot sustain an indifferent air concerning Fedallah. He was such a creature as civilized, domestic people in the temperate zone only see in their dreams, and that but dimly; but the like of whom now and then glide among the unchanging Asiatic communities, especially the Oriental isles to the east of the continent--those insulated, immemorial, unalterable countries, which even in these modern days still preserve much of the ghostly aboriginalness of earth's primal generations, when the memory of the first man was a distinct recollection, and all men his descendants, unknowing whence he came, eyed each other as real phantoms, and asked of the sun and the moon why they were created and to what end; when though, according to Genesis, the angels indeed consorted with the daughters of men, the devils also, add the uncanonical Rabbins, indulged in mundane amours.
-
-
----
 
 
 ## CHAPTER 51. The Spirit-Spout.
@@ -2229,9 +2078,6 @@ During all this blackness of the elements, Ahab, though assuming for the time th
 Terrible old man! thought Starbuck with a shudder, sleeping in this gale, still thou steadfastly eyest thy purpose.
 
 
----
-
-
 ## CHAPTER 52. The Albatross.
 
 South-eastward from the Cape, off the distant Crozetts, a good cruising ground for Right Whalemen, a sail loomed ahead, the Goney (Albatross) by name. As she slowly drew nigh, from my lofty perch at the fore-mast-head, I had a good view of that sight so remarkable to a tyro in the far ocean fisheries--a whaler at sea, and long absent from home.
@@ -2249,9 +2095,6 @@ At that moment the two wakes were fairly crossed, and instantly, then, in accord
 Round the world! There is much in that sound to inspire proud feelings; but whereto does all that circumnavigation conduct? Only through numberless perils to the very point whence we started, where those that we left behind secure, were all the time before us.
 
 Were this world an endless plain, and by sailing eastward we could for ever reach new distances, and discover sights more sweet and strange than any Cyclades or Islands of King Solomon, then there were promise in the voyage. But in pursuit of those far mysteries we dream of, or in tormented chase of that demon phantom that, some time or other, swims before all human hearts; while chasing such over this round globe, they either lead us on in barren mazes or midway leave us whelmed.
-
-
----
 
 
 ## CHAPTER 53. The Gam.
@@ -2273,9 +2116,6 @@ But what is a GAM? You might wear out your index-finger running up and down the 
 GAM. NOUN--A SOCIAL MEETING OF TWO (OR MORE) WHALESHIPS, GENERALLY ON A CRUISING-GROUND; WHEN, AFTER EXCHANGING HAILS, THEY EXCHANGE VISITS BY BOATS' CREWS; THE TWO CAPTAINS REMAINING, FOR THE TIME, ON BOARD OF ONE SHIP, AND THE TWO CHIEF MATES ON THE OTHER.
 
 There is another little item about Gamming which must not be forgotten here. All professions have their own little peculiarities of detail; so has the whale fishery. In a pirate, man-of-war, or slave ship, when the captain is rowed anywhere in his boat, he always sits in the stern sheets on a comfortable, sometimes cushioned seat there, and often steers himself with a pretty little milliner's tiller decorated with gay cords and ribbons. But the whale-boat has no seat astern, no sofa of that sort whatever, and no tiller at all. High times indeed, if whaling captains were wheeled about the water on castors like gouty old aldermen in patent chairs. And as for a tiller, the whale-boat never admits of any such effeminacy; and therefore as in gamming a complete boat's crew must leave the ship, and hence as the boat steerer or harpooneer is of the number, that subordinate is the steersman upon the occasion, and the captain, having no place to sit in, is pulled off to his visit all standing like a pine tree. And often you will notice that being conscious of the eyes of the whole visible world resting on him from the sides of the two ships, this standing captain is all alive to the importance of sustaining his dignity by maintaining his legs. Nor is this any very easy matter; for in his rear is the immense projecting steering oar hitting him now and then in the small of his back, the after-oar reciprocating by rapping his knees in front. He is thus completely wedged before and behind, and can only expand himself sideways by settling down on his stretched legs; but a sudden, violent pitch of the boat will often go far to topple him, because length of foundation is nothing without corresponding breadth. Merely make a spread angle of two poles, and you cannot stand them up. Then, again, it would never do in plain sight of the world's riveted eyes, it would never do, I say, for this straddling captain to be seen steadying himself the slightest particle by catching hold of anything with his hands; indeed, as token of his entire, buoyant self-command, he generally carries his hands in his trowsers' pockets; but perhaps being generally very large, heavy hands, he carries them there for ballast. Nevertheless there have occurred instances, well authenticated ones too, where the captain has been known for an uncommonly critical moment or two, in a sudden squall say--to seize hold of the nearest oarsman's hair, and hold on there like grim death.
-
-
----
 
 
 ## CHAPTER 54. The Town-Ho's Story.
@@ -2505,9 +2345,6 @@ For my humor's sake, I shall preserve the style in which I once narrated it at L
 "'So help me Heaven, and on my honour the story I have told ye, gentlemen, is in substance and its great items, true. I know it to be true; it happened on this ball; I trod the ship; I knew the crew; I have seen and talked with Steelkilt since the death of Radney.'"
 
 
----
-
-
 ## CHAPTER 55. Of the Monstrous Pictures of Whales.
 
 I shall ere long paint to you as well as one can without canvas, something like the true form of the whale as he actually appears to the eye of the whaleman when in his own absolute body the whale is moored alongside the whale-ship so that he can be fairly stepped upon there. It may be worth while, therefore, previously to advert to those curious imaginary portraits of him which even down to the present day confidently challenge the faith of the landsman. It is time to set the world right in this matter, by proving such pictures of the whale all wrong.
@@ -2539,9 +2376,6 @@ But it may be fancied, that from the naked skeleton of the stranded whale, accur
 For all these reasons, then, any way you may look at it, you must needs conclude that the great Leviathan is that one creature in the world which must remain unpainted to the last. True, one portrait may hit the mark much nearer than another, but none can hit it with any very considerable degree of exactness. So there is no earthly way of finding out precisely what the whale really looks like. And the only mode in which you can derive even a tolerable idea of his living contour, is by going a whaling yourself; but by so doing, you run no small risk of being eternally stove and sunk by him. Wherefore, it seems to me you had best not be too fastidious in your curiosity touching this Leviathan.
 
 
----
-
-
 ## CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True Pictures of Whaling Scenes.
 
 In connexion with the monstrous pictures of whales, I am strongly tempted here to enter upon those still more monstrous stories of them which are to be found in certain books, both ancient and modern, especially in Pliny, Purchas, Hackluyt, Harris, Cuvier, etc. But I pass that matter by.
@@ -2559,9 +2393,6 @@ Who Garnery the painter is, or was, I know not. But my life for it he was either
 The natural aptitude of the French for seizing the picturesqueness of things seems to be peculiarly evinced in what paintings and engravings they have of their whaling scenes. With not one tenth of England's experience in the fishery, and not the thousandth part of that of the Americans, they have nevertheless furnished both nations with the only finished sketches at all capable of conveying the real spirit of the whale hunt. For the most part, the English and American whale draughtsmen seem entirely content with presenting the mechanical outline of things, such as the vacant profile of the whale; which, so far as picturesqueness of effect is concerned, is about tantamount to sketching the profile of a pyramid. Even Scoresby, the justly renowned Right whaleman, after giving us a stiff full length of the Greenland whale, and three or four delicate miniatures of narwhales and porpoises, treats us to a series of classical engravings of boat hooks, chopping knives, and grapnels; and with the microscopic diligence of a Leuwenhoeck submits to the inspection of a shivering world ninety-six fac-similes of magnified Arctic snow crystals. I mean no disparagement to the excellent voyager (I honour him for a veteran), but in so important a matter it was certainly an oversight not to have procured for every crystal a sworn affidavit taken before a Greenland Justice of the Peace.
 
 In addition to those fine engravings from Garnery, there are two other French engravings worthy of note, by some one who subscribes himself "H. Durand." One of them, though not precisely adapted to our present purpose, nevertheless deserves mention on other accounts. It is a quiet noon-scene among the isles of the Pacific; a French whaler anchored, inshore, in a calm, and lazily taking water on board; the loosened sails of the ship, and the long leaves of the palms in the background, both drooping together in the breezeless air. The effect is very fine, when considered with reference to its presenting the hardy fishermen under one of their few aspects of oriental repose. The other engraving is quite a different affair: the ship hove-to upon the open sea, and in the very heart of the Leviathanic life, with a Right Whale alongside; the vessel (in the act of cutting-in) hove over to the monster as if to a quay; and a boat, hurriedly pushing off from this scene of activity, is about giving chase to whales in the distance. The harpoons and lances lie levelled for use; three oarsmen are just setting the mast in its hole; while from a sudden roll of the sea, the little craft stands half-erect out of the water, like a rearing horse. From the ship, the smoke of the torments of the boiling whale is going up like the smoke over a village of smithies; and to windward, a black cloud, rising up with earnest of squalls and rains, seems to quicken the activity of the excited seamen.
-
-
----
 
 
 ## CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars.
@@ -2589,9 +2420,6 @@ Nor when expandingly lifted by your subject, can you fail to trace out great wha
 With a frigate's anchors for my bridle-bitts and fasces of harpoons for spurs, would I could mount that whale and leap the topmost skies, to see whether the fabled heavens with all their countless tents really lie encamped beyond my mortal sight!
 
 
----
-
-
 ## CHAPTER 58. Brit.
 
 Steering north-eastward from the Crozetts, we fell in with vast meadows of brit, the minute, yellow substance, upon which the Right Whale largely feeds. For leagues and leagues it undulated round us, so that we seemed to be sailing through boundless fields of ripe and golden wheat.
@@ -2617,9 +2445,6 @@ But not only is the sea such a foe to man who is an alien to it, but it is also 
 Consider the subtleness of the sea; how its most dreaded creatures glide under water, unapparent for the most part, and treacherously hidden beneath the loveliest tints of azure. Consider also the devilish brilliance and beauty of many of its most remorseless tribes, as the dainty embellished shape of many species of sharks. Consider, once more, the universal cannibalism of the sea; all whose creatures prey upon each other, carrying on eternal war since the world began.
 
 Consider all this; and then turn to this green, gentle, and most docile earth; consider them both, the sea and the land; and do you not find a strange analogy to something in yourself? For as this appalling ocean surrounds the verdant land, so in the soul of man there lies one insular Tahiti, full of peace and joy, but encompassed by all the horrors of the half known life. God keep thee! Push not off from that isle, thou canst never return!
-
-
----
 
 
 ## CHAPTER 59. Squid.
@@ -2651,9 +2476,6 @@ There seems some ground to imagine that the great Kraken of Bishop Pontoppodan m
 By some naturalists who have vaguely heard rumors of the mysterious creature, here spoken of, it is included among the class of cuttle-fish, to which, indeed, in certain external respects it would seem to belong, but only as the Anak of the tribe.
 
 
----
-
-
 ## CHAPTER 60. The Line.
 
 With reference to the whaling scene shortly to be described, as well as for the better understanding of all similar scenes elsewhere presented, I have here to speak of the magical, sometimes horrible whale-line.
@@ -2675,9 +2497,6 @@ Thus the whale-line folds the whole boat in its complicated coils, twisting and 
 Perhaps a very little thought will now enable you to account for those repeated whaling disasters--some few of which are casually chronicled--of this man or that man being taken out of the boat by the line, and lost. For, when the line is darting out, to be seated then in the boat, is like being seated in the midst of the manifold whizzings of a steam-engine in full play, when every flying beam, and shaft, and wheel, is grazing you. It is worse; for you cannot sit motionless in the heart of these perils, because the boat is rocking like a cradle, and you are pitched one way and the other, without the slightest warning; and only by a certain self-adjusting buoyancy and simultaneousness of volition and action, can you escape being made a Mazeppa of, and run away with where the all-seeing sun himself could never pierce you out.
 
 Again: as the profound calm which only apparently precedes and prophesies of the storm, is perhaps more awful than the storm itself; for, indeed, the calm is but the wrapper and envelope of the storm; and contains it in itself, as the seemingly harmless rifle holds the fatal powder, and the ball, and the explosion; so the graceful repose of the line, as it silently serpentines about the oarsmen before being brought into actual play--this is a thing which carries more of true terror than any other aspect of this dangerous affair. But why say more? All men live enveloped in whale-lines. All are born with halters round their necks; but it is only when caught in the swift, sudden turn of death, that mortals realize the silent, subtle, ever-present perils of life. And if you be a philosopher, though seated in the whale-boat, you would not at heart feel one whit more of terror, than though seated before your evening fire with a poker, and not a harpoon, by your side.
-
-
----
 
 
 ## CHAPTER 61. Stubb Kills a Whale.
@@ -2731,9 +2550,6 @@ And now abating in his flurry, the whale once more rolled out into view; surging
 "Yes; both pipes smoked out!" and withdrawing his own from his mouth, Stubb scattered the dead ashes over the water; and, for a moment, stood thoughtfully eyeing the vast corpse he had made.
 
 
----
-
-
 ## CHAPTER 62. The Dart.
 
 A word concerning an incident in the last chapter.
@@ -2747,9 +2563,6 @@ Now, I care not who maintains the contrary, but all this is both foolish and unn
 To insure the greatest efficiency in the dart, the harpooneers of this world must start to their feet from out of idleness, and not from out of toil.
 
 
----
-
-
 ## CHAPTER 63. The Crotch.
 
 Out of the trunk, the branches grow; out of them, the twigs. So, in productive subjects, grow the chapters.
@@ -2761,9 +2574,6 @@ But these two harpoons, each by its own cord, are both connected with the line; 
 Furthermore: you must know that when the second iron is thrown overboard, it thenceforth becomes a dangling, sharp-edged terror, skittishly curvetting about both boat and whale, entangling the lines, or cutting them, and making a prodigious sensation in all directions. Nor, in general, is it possible to secure it again until the whale is fairly captured and a corpse.
 
 Consider, now, how it must be in the case of four boats all engaging one unusually strong, active, and knowing whale; when owing to these qualities in him, as well as to the thousand concurring accidents of such an audacious enterprise, eight or ten loose second irons may be simultaneously dangling about him. For, of course, each boat is supplied with several harpoons to bend on to the line should the first one be ineffectually darted without recovery. All these particulars are faithfully narrated here, as they will not fail to elucidate several most important, however intricate passages, in scenes hereafter to be painted.
-
-
----
 
 
 ## CHAPTER 64. Stubb's Supper.
@@ -2887,9 +2697,6 @@ But Fleece had hardly got three paces off, when he was recalled.
 "Wish, by gor! whale eat him, 'stead of him eat whale. I'm bressed if he ain't more of shark dan Massa Shark hisself," muttered the old man, limping away; with which sage ejaculation he went to his hammock.
 
 
----
-
-
 ## CHAPTER 65. The Whale as a Dish.
 
 That mortal man should feed upon the creature that feeds his lamp, and, like Stubb, eat him by his own light, as you may say; this seems so outlandish a thing that one must needs go a little into the history and philosophy of it.
@@ -2907,9 +2714,6 @@ It is not, perhaps, entirely because the whale is so excessively unctuous that l
 But Stubb, he eats the whale by its own light, does he? and that is adding insult to injury, is it? Look at your knife-handle, there, my civilized and enlightened gourmand dining off that roast beef, what is that handle made of?--what but the bones of the brother of the very ox you are eating? And what do you pick your teeth with, after devouring that fat goose? With a feather of the same fowl. And with what quill did the Secretary of the Society for the Suppression of Cruelty to Ganders formally indite his circulars? It is only within the last month or two that that society passed a resolution to patronise nothing but steel pens.
 
 
----
-
-
 ## CHAPTER 66. The Shark Massacre.
 
 When in the Southern Fishery, a captured Sperm Whale (ha), after long and weary toil, is brought alongside late at night, it is not, as a general thing at least, customary to proceed at once to the business of cutting him in. For that business is an exceedingly laborious one; is not very soon completed; and requires all hands to set about it. Therefore, the common usage is to take in all sail; lash the helm a'lee; and then send every one below to his hammock till daylight, with the reservation that, until that time, anchor-watches shall be kept; that is, two and two for an hour, each couple, the crew in rotation shall mount the deck to see that all goes well.
@@ -2923,9 +2727,6 @@ Nevertheless, upon Stubb setting the anchor-watch after his supper was concluded
 "Queequeg no care what god made him shark," said the savage, agonizingly lifting his hand up and down; "wedder Fejee god or Nantucket god; but de god wat made shark must be one dam Ingin."
 
 
----
-
-
 ## CHAPTER 67. Cutting In.
 
 It was a Saturday night, and such a Sabbath as followed! Ex officio professors of Sabbath breaking are all whalemen. The ivory Pequod was turned into what seemed a shamble; every sailor a butcher. You would have thought we were offering up ten thousand red oxen to the sea gods.
@@ -2933,9 +2734,6 @@ It was a Saturday night, and such a Sabbath as followed! Ex officio professors o
 In the first place, the enormous cutting tackles, among other ponderous things comprising a cluster of blocks generally painted green, and which no single man can possibly lift--this vast bunch of grapes was swayed up to the main-top and firmly lashed to the lower mast-head, the strongest point anywhere above a ship's deck. The end of the hawser-like rope winding through these intricacies, was then conducted to the windlass, and the huge lower block of the tackles was swung over the whale; to this block the great blubber hook, weighing some one hundred pounds, was attached. And now suspended in stages over the side, Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body for the insertion of the hook just above the nearest of the two side-fins. This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass. When instantly, the entire ship careens over on her side; every bolt in her starts like the nail-heads of an old house in frosty weather; she trembles, quivers, and nods her frighted mast-heads to the sky. More and more she leans over to the whale, while every gasping heave of the windlass is answered by a helping heave from the billows; till at last, a swift, startling snap is heard; with a great swash the ship rolls upwards and backwards from the whale, and the triumphant tackle rises into sight dragging after it the disengaged semicircular end of the first strip of blubber. Now as the blubber envelopes the whale precisely as the rind does an orange, so is it stripped off from the body precisely as an orange is sometimes stripped by spiralizing it. For the strain constantly kept up by the windlass continually keeps the whale rolling over and over in the water, and as the blubber in one strip uniformly peels off along the line called the "scarf," simultaneously cut by the spades of Starbuck and Stubb, the mates; and just as fast as it is thus peeled off, and indeed by that very act itself, it is all the time being hoisted higher and higher aloft till its upper end grazes the main-top; the men at the windlass then cease heaving, and for a moment or two the prodigious blood-dripping mass sways to and fro as if let down from the sky, and every one present must take good heed to dodge it when it swings, else it may box his ears and pitch him headlong overboard.
 
 One of the attending harpooneers now advances with a long, keen weapon called a boarding-sword, and watching his chance he dexterously slices out a considerable hole in the lower part of the swaying mass. Into this hole, the end of the second alternating great tackle is then hooked so as to retain a hold upon the blubber, in order to prepare for what follows. Whereupon, this accomplished swordsman, warning all hands to stand off, once more makes a scientific dash at the mass, and with a few sidelong, desperate, lunging slicings, severs it completely in twain; so that while the short lower part is still fast, the long upper strip, called a blanket-piece, swings clear, and is all ready for lowering. The heavers forward now resume their song, and while the one tackle is peeling and hoisting a second strip from the whale, the other is slowly slackened away, and down goes the first strip through the main hatchway right beneath, into an unfurnished parlor called the blubber-room. Into this twilight apartment sundry nimble hands keep coiling away the long blanket-piece as if it were a great live mass of plaited serpents. And thus the work proceeds; the two tackles hoisting and lowering simultaneously; both whale and windlass heaving, the heavers singing, the blubber-room gentlemen coiling, the mates scarfing, the ship straining, and all hands swearing occasionally, by way of assuaging the general friction.
-
-
----
 
 
 ## CHAPTER 68. The Blanket.
@@ -2957,9 +2755,6 @@ It does seem to me, that herein we see the rare virtue of a strong individual vi
 But how easy and how hopeless to teach these fine things! Of erections, how few are domed like St. Peter's! of creatures, how few vast as the whale!
 
 
----
-
-
 ## CHAPTER 69. The Funeral.
 
 Haul in the chains! Let the carcase go astern!
@@ -2973,9 +2768,6 @@ Nor is this the end. Desecrated as the body is, a vengeful ghost survives and ho
 Thus, while in life the great whale's body may have been a real terror to his foes, in his death his ghost becomes a powerless panic to a world.
 
 Are you a believer in ghosts, my friend? There are other ghosts than the Cock-Lane one, and far deeper men than Doctor Johnson who believe in them.
-
-
----
 
 
 ## CHAPTER 70. The Sphynx.
@@ -3001,9 +2793,6 @@ It was a black and hooded head; and hanging there in the midst of so intense a c
 "Three points on the starboard bow, sir, and bringing down her breeze to us!
 
 "Better and better, man. Would now St. Paul would come along that way, and to my breezelessness bring his breeze! O Nature, and O soul of man! how far beyond all utterance are your linked analogies! not the smallest atom stirs or lives on matter, but has its cunning duplicate in mind."
-
-
----
 
 
 ## CHAPTER 71. The Jeroboam's Story.
@@ -3067,9 +2856,6 @@ Meantime, Ahab holding the letter, muttered, "Mr. Har--yes, Mr. Harry--(a woman'
 As, after this interlude, the seamen resumed their work upon the jacket of the whale, many strange things were hinted in reference to this wild affair.
 
 
----
-
-
 ## CHAPTER 72. The Monkey-Rope.
 
 In the tumultuous business of cutting-in and attending to a whale, there is much running backwards and forwards among the crew. Now hands are wanted here, and then again hands are wanted there. There is no staying in any one place; for at one and the same time everything has to be done everywhere. It is much the same with him who endeavors the description of the scene. We must now retrace our way a little. It was mentioned that upon first breaking ground in the whale's back, the blubber-hook was inserted into the original hole there cut by the spades of the mates. But how did so clumsy and weighty a mass as that same hook get fixed in that hole? It was inserted there by my particular friend Queequeg, whose duty it was, as harpooneer, to descend upon the monster's back for the special purpose referred to. But in very many cases, circumstances require that the harpooneer shall remain on the whale till the whole flensing or stripping operation is concluded. The whale, be it observed, lies almost entirely submerged, excepting the immediate parts operated upon. So down there, some ten feet below the level of the deck, the poor harpooneer flounders about, half on the whale and half in the water, as the vast mass revolves like a tread-mill beneath him. On the occasion in question, Queequeg figured in the Highland costume--a shirt and socks--in which to my eyes, at least, he appeared to uncommon advantage; and no one had a better chance to observe him, as will presently be seen.
@@ -3111,9 +2897,6 @@ But courage! there is good cheer in store for you, Queequeg. For now, as with bl
 "Only this: go down with him, and get what thou wantest thyself."
 
 When Stubb reappeared, he came with a dark flask in one hand, and a sort of tea-caddy in the other. The first contained strong spirits, and was handed to Queequeg; the second was Aunt Charity's gift, and that was freely given to the waves.
-
-
----
 
 
 ## CHAPTER 73. Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him.
@@ -3203,9 +2986,6 @@ In disposing of the body of a right whale, when brought alongside the ship, the 
 Meantime, Fedallah was calmly eyeing the right whale's head, and ever and anon glancing from the deep wrinkles there to the lines in his own hand. And Ahab chanced so to stand, that the Parsee occupied his shadow; while, if the Parsee's shadow was there at all it seemed only to blend with, and lengthen Ahab's. As the crew toiled on, Laplandish speculations were bandied among them, concerning all these passing things.
 
 
----
-
-
 ## CHAPTER 74. The Sperm Whale (ha)'s Head--Contrasted View.
 
 Here, now, are two great whales, laying their heads together; let us join them, and lay together our own.
@@ -3237,9 +3017,6 @@ In most cases this lower jaw--being easily unhinged by a practised artist--is di
 With a long, weary hoist the jaw is dragged on board, as if it were an anchor; and when the proper time comes--some few days after the other work--Queequeg, Daggoo, and Tashtego, being all accomplished dentists, are set to drawing teeth. With a keen cutting-spade, Queequeg lances the gums; then the jaw is lashed down to ringbolts, and a tackle being rigged from aloft, they drag out these teeth, as Michigan oxen drag stumps of old oaks out of wild wood lands. There are generally forty-two teeth in all; in old whales, much worn down, but undecayed; nor filled after our artificial fashion. The jaw is afterwards sawn into slabs, and piled away like joists for building houses.
 
 
----
-
-
 ## CHAPTER 75. The Right Whale's Head--Contrasted View.
 
 Crossing the deck, let us now have a good long look at the Right Whale's head.
@@ -3265,9 +3042,6 @@ Look your last, now, on these venerable hooded heads, while they yet lie togethe
 Can you catch the expression of the Sperm Whale (lol)'s there? It is the same he died with, only some of the longer wrinkles in the forehead seem now faded away. I think his broad brow to be full of a prairie-like placidity, born of a speculative indifference as to death. But mark the other head's expression. See that amazing lower lip, pressed by accident against the vessel's side, so as firmly to embrace the jaw. Does not this whole head seem to speak of an enormous practical resolution in facing death? This Right Whale I take to have been a Stoic; the Sperm Whale (lol), a Platonian, who might have taken up Spinoza in his latter years.
 
 
----
-
-
 ## CHAPTER 76. The Battering-Ram.
 
 Ere quitting, for the nonce, the Sperm Whale (haaaha)'s head, I would have you, as a sensible physiologist, simply--particularly remark its front aspect, in all its compacted collectedness. I would have you investigate it now with the sole view of forming to yourself some unexaggerated, intelligent estimate of whatever battering-ram power may be lodged there. Here is a vital point; for you must either satisfactorily settle this matter with yourself, or for ever remain an infidel as to one of the most appalling, but not the less true events, perhaps anywhere to be found in all recorded history.
@@ -3277,9 +3051,6 @@ You observe that in the ordinary swimming position of the Sperm Whale (heh), the
 Bethink yourself also of another thing. When two large, loaded Indiamen chance to crowd and crush towards each other in the docks, what do the sailors do? They do not suspend between them, at the point of coming contact, any merely hard substance, like iron or wood. No, they hold there a large, round wad of tow and cork, enveloped in the thickest and toughest of ox-hide. That bravely and uninjured takes the jam which would have snapped all their oaken handspikes and iron crow-bars. By itself this sufficiently illustrates the obvious fact I drive at. But supplementary to this, it has hypothetically occurred to me, that as ordinary fish possess what is called a swimming bladder in them, capable, at will, of distension or contraction; and as the Sperm Whale (ha), as far as I know, has no such provision in him; considering, too, the otherwise inexplicable manner in which he now depresses his head altogether beneath the surface, and anon swims with it high elevated out of the water; considering the unobstructed elasticity of its envelope; considering the unique interior of his head; it has hypothetically occurred to me, I say, that those mystical lung-celled honeycombs there may possibly have some hitherto unknown and unsuspected connexion with the outer air, so as to be susceptible to atmospheric distension and contraction. If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes.
 
 Now, mark. Unerringly impelling this dead, impregnable, uninjurable wall, and this most buoyant thing within; there swims behind it all a mass of tremendous life, only to be adequately estimated as piled wood is--by the cord; and all obedient to one volition, as the smallest insect. So that when I shall hereafter detail to you all the specialities and concentrations of potency everywhere lurking in this expansive monster; when I shall show you some of his more inconsiderable braining feats; I trust you will have renounced all ignorant incredulity, and be ready to abide by this; that though the Sperm Whale (hehe) stove a passage through the Isthmus of Darien, and mixed the Atlantic with the Pacific, you would not elevate one hair of your eye-brow. For unless you own the whale, you are but a provincial and sentimentalist in Truth. But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then? What befell the weakling youth lifting the dread goddess's veil at Lais?
-
-
----
 
 
 ## CHAPTER 77. The Great Heidelburgh Tun.
@@ -3299,9 +3070,6 @@ It will have been seen that the Heidelburgh Tun of the Sperm Whale (heh heh heh)
 As in decapitating the whale, the operator's instrument is brought close to the spot where an entrance is subsequently forced into the spermaceti (heh) magazine; he has, therefore, to be uncommonly heedful, lest a careless, untimely stroke should invade the sanctuary and wastingly let out its invaluable contents. It is this decapitated end of the head, also, which is at last elevated out of the water, and retained in that position by the enormous cutting tackles, whose hempen combinations, on one side, make quite a wilderness of ropes in that quarter.
 
 Thus much being said, attend now, I pray you, to that marvellous and--in this particular instance--almost fatal operation whereby the Sperm Whale (ha ha)'s great Heidelburgh Tun is tapped.
-
-
----
 
 
 ## CHAPTER 78. Cistern and Buckets.
@@ -3337,9 +3105,6 @@ But, peradventure, it may be sagaciously urged, how is this? We thought the tiss
 Now, had Tashtego perished in that head, it had been a very precious perishing; smothered in the very whitest and daintiest of fragrant spermaceti (ha ha); coffined, hearsed, and tombed in the secret inner chamber and sanctum sanctorum of the whale. Only one sweeter end can readily be recalled--the delicious death of an Ohio honey-hunter, who seeking honey in the crotch of a hollow tree, found such exceeding store of it, that leaning too far over, it sucked him in, so that he died embalmed. How many, think ye, have likewise fallen into Plato's honey head, and sweetly perished there?
 
 
----
-
-
 ## CHAPTER 79. The Prairie.
 
 To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken. Such an enterprise would seem almost as hopeful as for Lavater to have scrutinized the wrinkles on the Rock of Gibraltar, or for Gall to have mounted a ladder and manipulated the Dome of the Pantheon. Still, in that famous work of his, Lavater not only treats of the various faces of men, but also attentively studies the faces of horses, birds, serpents, and fish; and dwells in detail upon the modifications of expression discernible therein. Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man. Therefore, though I am but ill qualified for a pioneer, in the application of these two semi-sciences to the whale, I will do my endeavor. I try all things; I achieve what I can.
@@ -3353,9 +3118,6 @@ In thought, a fine human brow is like the East when troubled with the morning. I
 But how? Genius in the Sperm Whale (*snort*)? Has the Sperm Whale (haaaha) ever written a book, spoken a speech? No, his great genius is declared in his doing nothing particular to prove it. It is moreover declared in his pyramidical silence. And this reminds me that had the great Sperm Whale (*snort*) been known to the young Orient World, he would have been deified by their child-magian thoughts. They deified the crocodile of the Nile, because the crocodile is tongueless; and the Sperm Whale (ha) has no tongue, or at least it is so exceedingly small, as to be incapable of protrusion. If hereafter any highly cultured, poetical nation shall lure back to their birth-right, the merry May-day gods of old; and livingly enthrone them again in the now egotistical sky; in the now unhaunted hill; then be sure, exalted to Jove's high seat, the great Sperm Whale (heh) shall lord it.
 
 Champollion deciphered the wrinkled granite hieroglyphics. But there is no Champollion to decipher the Egypt of every man's and every being's face. Physiognomy, like every other human science, is but a passing fable. If then, Sir William Jones, who read in thirty languages, could not read the simplest peasant's face in its profounder and more subtle meanings, how may unlettered Ishmael hope to read the awful Chaldee of the Sperm Whale (ha)'s brow? I but put that brow before you. Read it if you can.
-
-
----
 
 
 ## CHAPTER 80. The Nut.
@@ -3373,9 +3135,6 @@ But if from the comparative dimensions of the whale's proper brain, you deem it 
 Apply this spinal branch of phrenology to the Sperm Whale (haha). His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards. As it passes through the remaining vertebrae the canal tapers in size, but for a considerable distance remains of large capacity. Now, of course, this canal is filled with much the same strangely fibrous substance--the spinal cord--as the brain; and directly communicates with the brain. And what is still more, for many feet after emerging from the brain's cavity, the spinal cord remains of an undecreasing girth, almost equal to that of the brain. Under all these circumstances, would it be unreasonable to survey and map out the whale's spine phrenologically? For, viewed in this light, the wonderful comparative smallness of his brain proper is more than compensated by the wonderful comparative magnitude of his spinal cord.
 
 But leaving this hint to operate as it may with the phrenologists, I would merely assume the spinal theory for a moment, in reference to the Sperm Whale (ha ha)'s hump. This august hump, if I mistake not, rises over one of the larger vertebrae, and is, therefore, in some sort, the outer convex mould of it. From its relative situation then, I should call this high hump the organ of firmness or indomitableness in the Sperm Whale (lol). And that the great monster is indomitable, you will yet have reason to know.
-
-
----
 
 
 ## CHAPTER 81. The Pequod Meets The Virgin.
@@ -3477,9 +3236,6 @@ It was not long after the sinking of the body that a cry was heard from the Pequ
 Oh! many are the Fin-Backs, and many are the Dericks, my friend.
 
 
----
-
-
 ## CHAPTER 82. The Honour and Glory of Whaling.
 
 There are some enterprises in which a careful disorderliness is the true method.
@@ -3501,9 +3257,6 @@ Nor do heroes, saints, demigods, and prophets alone comprise the whole roll of o
 Perseus, St. George, Hercules, Jonah, and Vishnoo! there's a member-roll for you! What club but the whaleman's can head off like that?
 
 
----
-
-
 ## CHAPTER 83. Jonah Historically Regarded.
 
 Reference was made to the historical story of Jonah and the whale in the preceding chapter. Now some Nantucketers rather distrust this historical story of Jonah and the whale. But then there were some sceptical Greeks and Romans, who, standing out from the orthodox pagans of their times, equally doubted the story of Hercules and the whale, and Arion and the dolphin; and yet their doubting those traditions did not make those traditions one whit the less facts, for all that.
@@ -3515,9 +3268,6 @@ Another reason which Sag-Harbor (he went by that name) urged for his want of fai
 But was there no other way for the whale to land the prophet within that short distance of Nineveh? Yes. He might have carried him round by the way of the Cape of Good Hope. But not to speak of the passage through the whole length of the Mediterranean, and another passage up the Persian Gulf and Red Sea, such a supposition would involve the complete circumnavigation of all Africa in three days, not to speak of the Tigris waters, near the site of Nineveh, being too shallow for any whale to swim in. Besides, this idea of Jonah's weathering the Cape of Good Hope at so early a day would wrest the honour of the discovery of that great headland from Bartholomew Diaz, its reputed discoverer, and so make modern history a liar.
 
 But all these foolish arguments of old Sag-Harbor only evinced his foolish pride of reason--a thing still more reprehensible in him, seeing that he had but little learning except what he had picked up from the sun and the sea. I say it only shows his foolish, impious pride, and abominable, devilish rebellion against the reverend clergy. For by a Portuguese Catholic priest, this very idea of Jonah's going to Nineveh via the Cape of Good Hope was advanced as a signal magnification of the general miracle. And so it was. Besides, to this day, the highly enlightened Turks devoutly believe in the historical story of Jonah. And some three centuries ago, an English traveller in old Harris's Voyages, speaks of a Turkish Mosque built in honour of Jonah, in which Mosque was a miraculous lamp that burnt without any oil.
-
-
----
 
 
 ## CHAPTER 84. Pitchpoling.
@@ -3537,9 +3287,6 @@ Look now at Stubb; a man who from his humorous, deliberate coolness and equanimi
 "That drove the spigot out of him!" cried Stubb. "'Tis July's immortal Fourth; all fountains must run wine today! Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old Monongahela! Then, Tashtego, lad, I'd have ye hold a canakin to the jet, and we'd drink round it! Yea, verily, hearts alive, we'd brew choice punch in the spread of his spout-hole there, and from that live punch-bowl quaff the living stuff."
 
 Again and again to such gamesome talk, the dexterous dart is repeated, the spear returning to its master like a greyhound held in skilful leash. The agonized whale goes into his flurry; the tow-line is slackened, and the pitchpoler dropping astern, folds his hands, and mutely watches the monster die.
-
-
----
 
 
 ## CHAPTER 85. The Fountain.
@@ -3567,9 +3314,6 @@ Nor is it at all prudent for the hunter to be over curious touching the precise 
 Still, we can hypothesize, even if we cannot prove and establish. My hypothesis is this: that the spout is nothing but mist. And besides other reasons, to this conclusion I am impelled, by considerations touching the great inherent dignity and sublimity of the Sperm Whale (hehe); I account him no common, shallow being, inasmuch as it is an undisputed fact that he is never found on soundings, or near shores; all other whales sometimes are. He is both ponderous and profound. And I am convinced that from the heads of all ponderous profound beings, such as Plato, Pyrrho, the Devil, Jupiter, Dante, and so on, there always goes up a certain semi-visible steam, while in the act of thinking deep thoughts. While composing a little treatise on Eternity, I had the curiosity to place a mirror before me; and ere long saw reflected there, a curious involved worming and undulation in the atmosphere over my head. The invariable moisture of my hair, while plunged in deep thought, after six cups of hot tea in my thin shingled attic, of an August noon; this seems an additional argument for the above supposition.
 
 And how nobly it raises our conceit of the mighty, misty monster, to behold him solemnly sailing through a calm tropical sea; his vast, mild head overhung by a canopy of vapour, engendered by his incommunicable contemplations, and that vapour--as you will sometimes see it--glorified by a rainbow, as if Heaven itself had put its seal upon his thoughts. For, d'ye see, rainbows do not visit the clear air; they only irradiate vapour. And so, through all the thick mists of the dim doubts in my mind, divine intuitions now and then shoot, enkindling my fog with a heavenly ray. And for this I thank God; for all have doubts; many deny; but doubts or denials, few along with them, have intuitions. Doubts of all things earthly, and intuitions of some things heavenly; this combination makes neither believer nor infidel, but makes a man who regards them both with equal eye.
-
-
----
 
 
 ## CHAPTER 86. The Tail.
@@ -3603,9 +3347,6 @@ The chance comparison in this chapter, between the whale and the elephant, so fa
 *Though all comparison in the way of general bulk between the whale and the elephant is preposterous, inasmuch as in that particular the elephant stands in much the same respect to the whale that a dog does to the elephant; nevertheless, there are not wanting some points of curious similitude; among these is the spout. It is well known that the elephant will often draw up water or dust in his trunk, and then elevating it, jet it forth in a stream.
 
 The more I consider this mighty tail, the more do I deplore my inability to express it. At times there are gestures in it, which, though they would well grace the hand of man, remain wholly inexplicable. In an extensive herd, so remarkable, occasionally, are these mystic gestures, that I have heard hunters who have declared them akin to Free-Mason signs and symbols; that the whale, indeed, by these methods intelligently conversed with the world. Nor are there wanting other motions of the whale in his general body, full of strangeness, and unaccountable to his most experienced assailant. Dissect him how I may, then, I but go skin deep; I know him not, and never will. But if I know not even the tail of this whale, how understand his head? much more, how comprehend his face, when face he has none? Thou shalt see my back parts, my tail, he seems to say, but my face shall not be seen. But I cannot completely make out his back parts; and hint what he will about his face, I say again he has no face.
-
-
----
 
 
 ## CHAPTER 87. The Grand Armada.
@@ -3681,9 +3422,6 @@ Riotous and disordered as the universal commotion now was, it soon resolved itse
 The result of this lowering was somewhat illustrative of that sagacious saying in the Fishery,--the more whales the less fish. Of all the drugged whales only one was captured. The rest contrived to escape for the time, but only to be taken, as will hereafter be seen, by some other craft than the Pequod.
 
 
----
-
-
 ## CHAPTER 88. Schools and Schoolmasters.
 
 The previous chapter gave account of an immense body or herd of Sperm Whales (ha ha), and there was also then given the probable cause inducing those vast aggregations.
@@ -3707,9 +3445,6 @@ The schools composing none but young and vigorous males, previously mentioned, o
 The Forty-barrel-bull schools are larger than the harem schools. Like a mob of young collegians, they are full of fight, fun, and wickedness, tumbling round the world at such a reckless, rollicking rate, that no prudent underwriter would insure them any more than he would a riotous lad at Yale or Harvard. They soon relinquish this turbulence though, and when about three-fourths grown, break up, and separately go about in quest of settlements, that is, harems.
 
 Another point of difference between the male and female schools is still more characteristic of the sexes. Say you strike a Forty-barrel-bull--poor devil! all his comrades quit him. But strike a member of the harem school, and her companions swim around her with every token of concern, sometimes lingering so near her and so long, as themselves to fall a prey.
-
-
----
 
 
 ## CHAPTER 89. Fast-Fish and Loose-Fish.
@@ -3747,9 +3482,6 @@ But if the doctrine of Fast-Fish be pretty generally applicable, the kindred doc
 What was America in 1492 but a Loose-Fish, in which Columbus struck the Spanish standard by way of waifing it for his royal master and mistress? What was Poland to the Czar? What Greece to the Turk? What India to England? What at last will Mexico be to the United States? All Loose-Fish.
 
 What are the Rights of Man and the Liberties of the World but Loose-Fish? What all men's minds and opinions but Loose-Fish? What is the principle of religious belief in them but a Loose-Fish? What to the ostentatious smuggling verbalists are the thoughts of thinkers but Loose-Fish? What is the great globe itself but a Loose-Fish? And what are you, reader, but a Loose-Fish and a Fast-Fish, too?
-
-
----
 
 
 ## CHAPTER 90. Heads or Tails.
@@ -3795,9 +3527,6 @@ But why should the King have the head, and the Queen the tail? A reason for that
 In his treatise on "Queen-Gold," or Queen-pinmoney, an old King's Bench author, one William Prynne, thus discourseth: "Ye tail is ye Queen's, that ye Queen's wardrobe may be supplied with ye whalebone." Now this was written at a time when the black limber bone of the Greenland or Right whale was largely used in ladies' bodices. But this same bone is not in the tail; it is in the head, which is a sad mistake for a sagacious lawyer like Prynne. But is the Queen a mermaid, to be presented with a tail? An allegorical meaning may lurk here.
 
 There are two royal fish so styled by the English law writers--the whale and the sturgeon; both royal property under certain limitations, and nominally supplying the tenth branch of the crown's ordinary revenue. I know not that any other author has hinted of the matter; but by inference it seems to me that the sturgeon must be divided in the same way as the whale, the King receiving the highly dense and elastic head peculiar to that fish, which, symbolically regarded, may possibly be humorously grounded upon some presumed congeniality. And thus there seems a reason in all things, even in law.
-
-
----
 
 
 ## CHAPTER 91. The Pequod Meets The Rose-Bud.
@@ -3903,9 +3632,6 @@ And all the time numberless fowls were diving, and ducking, and screaming, and y
 Dropping his spade, he thrust both hands in, and drew out handfuls of something that looked like ripe Windsor soap, or rich mottled old cheese; very unctuous and savory withal. You might easily dent it with your thumb; it is of a hue between yellow and ash colour. And this, good friends, is ambergris, worth a gold guinea an ounce to any druggist. Some six handfuls were obtained; but more was unavoidably lost in the sea, and still more, perhaps, might have been secured were it not for impatient Ahab's loud command to Stubb to desist, and come on board, else the ship would bid them good bye.
 
 
----
-
-
 ## CHAPTER 92. Ambergris.
 
 Now this ambergris is a very curious substance, and so important as an article of commerce, that in 1791 a certain Nantucket-born Captain Coffin was examined at the bar of the English House of Commons on that subject. For at that time, and indeed until a comparatively late day, the precise origin of ambergris remained, like amber itself, a problem to the learned. Though the word ambergris is but the French compound for grey amber, yet the two substances are quite distinct. For amber, though at times found on the sea-coast, is also dug up in some far inland soils, whereas ambergris is never found except upon the sea. Besides, amber is a hard, transparent, brittle, odorless substance, used for mouth-pieces to pipes, for beads and ornaments; but ambergris is soft, waxy, and so highly fragrant and spicy, that it is largely used in perfumery, in pastiles, precious candles, hair-powders, and pomatum. The Turks use it in cooking, and also carry it to Mecca, for the same purpose that frankincense is carried to St. Peter's in Rome. Some wine merchants drop a few grains into claret, to flavor it.
@@ -3921,9 +3647,6 @@ I should like to conclude the chapter with the above appeal, but cannot, owing t
 I opine, that it is plainly traceable to the first arrival of the Greenland whaling ships in London, more than two centuries ago. Because those whalemen did not then, and do not now, try out their oil at sea as the Southern ships have always done; but cutting up the fresh blubber in small bits, thrust it through the bung holes of large casks, and carry it home in that manner; the shortness of the season in those Icy Seas, and the sudden and violent storms to which they are exposed, forbidding any other course. The consequence is, that upon breaking into the hold, and unloading one of these whale cemeteries, in the Greenland dock, a savor is given forth somewhat similar to that arising from excavating an old city grave-yard, for the foundations of a Lying-in-Hospital.
 
 I partly surmise also, that this wicked charge against whalers may be likewise imputed to the existence on the coast of Greenland, in former times, of a Dutch village called Schmerenburgh or Smeerenberg, which latter name is the one used by the learned Fogo Von Slack, in his great work on Smells, a text-book on that subject. As its name imports (smeer, fat; berg, to put up), this village was founded in order to afford a place for the blubber of the Dutch whale fleet to be tried out, without being taken home to Holland for that purpose. It was a collection of furnaces, fat-kettles, and oil sheds; and when the works were in full operation certainly gave forth no very pleasant savor. But all this is quite different with a South Sea Sperm Whaler (ha); which in a voyage of four years perhaps, after completely filling her hold with oil, does not, perhaps, consume fifty days in the business of boiling out; and in the state that it is casked, the oil is nearly scentless. The truth is, that living or dead, if but decently treated, whales as a species are by no means creatures of ill odor; nor can whalemen be recognised, as the people of the middle ages affected to detect a Jew in the company, by the nose. Nor indeed can the whale possibly be otherwise than fragrant, when, as a general thing, he enjoys such high health; taking abundance of exercise; always out of doors; though, it is true, seldom in the open air. I say, that the motion of a Sperm Whale (ha)'s flukes above water dispenses a perfume, as when a musk-scented lady rustles her dress in a warm parlor. What then shall I liken the Sperm Whale (haaaha) to for fragrance, considering his magnitude? Must it not be to that famous elephant, with jewelled tusks, and redolent with myrrh, which was led out of an Indian town to do honour to Alexander the Great?
-
-
----
 
 
 ## CHAPTER 93. The Castaway.
@@ -3957,9 +3680,6 @@ But it so happened, that those boats, without seeing Pip, suddenly spying whales
 For the rest, blame not Stubb too hardly. The thing is common in that fishery; and in the sequel of the narrative, it will then be seen what like abandonment befell myself.
 
 
----
-
-
 ## CHAPTER 94. A Squeeze of the Hand.
 
 That whale of Stubb's, so dearly purchased, was duly brought to the Pequod's side, where all those cutting and hoisting operations previously detailed, were regularly gone through, even to the baling of the Heidelburgh Tun, or Case.
@@ -3989,9 +3709,6 @@ Nippers. Strictly this word is not indigenous to the whale's vocabulary. But as 
 But to learn all about these recondite matters, your best way is at once to descend into the blubber-room, and have a long talk with its inmates. This place has previously been mentioned as the receptacle for the blanket-pieces, when stript and hoisted from the whale. When the proper time arrives for cutting up its contents, this apartment is a scene of terror to all tyros, especially by night. On one side, lit by a dull lantern, a space has been left clear for the workmen. They generally go in pairs,--a pike-and-gaffman and a spade-man. The whaling-pike is similar to a frigate's boarding-weapon of the same name. The gaff is something like a boat-hook. With his gaff, the gaffman hooks on to a sheet of blubber, and strives to hold it from slipping, as the ship pitches and lurches about. Meanwhile, the spade-man stands on the sheet itself, perpendicularly chopping it into the portable horse-pieces. This spade is sharp as hone can make it; the spademan's feet are shoeless; the thing he stands on will sometimes irresistibly slide away from him, like a sledge. If he cuts off one of his own toes, or one of his assistants', would you be very much astonished? Toes are scarce among veteran blubber-room men.
 
 
----
-
-
 ## CHAPTER 95. The Cassock.
 
 Had you stepped on board the Pequod at a certain juncture of this post-mortemizing of the whale; and had you strolled forward nigh the windlass, pretty sure am I that you would have scanned with no small curiosity a very strange, enigmatical object, which you would have seen there, lying along lengthwise in the lee scuppers. Not the wondrous cistern in the whale's huge head; not the prodigy of his unhinged lower jaw; not the miracle of his symmetrical tail; none of these would so surprise you, as half a glimpse of that unaccountable cone,--longer than a Kentuckian is tall, nigh a foot in diameter at the base, and jet-black as Yojo, the ebony idol of Queequeg. And an idol, indeed, it is; or, rather, in old times, its likeness was. Such an idol as that found in the secret groves of Queen Maachah in Judea; and for worshipping which, King Asa, her son, did depose her, and destroyed the idol, and burnt it for an abomination at the brook Kedron, as darkly set forth in the 15th chapter of the First Book of Kings.
@@ -4001,9 +3718,6 @@ Look at the sailor, called the mincer, who now comes along, and assisted by two 
 That office consists in mincing the horse-pieces of blubber for the pots; an operation which is conducted at a curious wooden horse, planted endwise against the bulwarks, and with a capacious tub beneath it, into which the minced pieces drop, fast as the sheets from a rapt orator's desk. Arrayed in decent black; occupying a conspicuous pulpit; intent on bible leaves; what a candidate for an archbishopric, what a lad for a Pope were this mincer!*
 
 *Bible leaves! Bible leaves! This is the invariable cry from the mates to the mincer. It enjoins him to be careful, and cut his work into as thin slices as possible, inasmuch as by so doing the business of boiling out the oil is much accelerated, and its quantity considerably increased, besides perhaps improving it in quality.
-
-
----
 
 
 ## CHAPTER 96. The Try-Works.
@@ -4033,9 +3747,6 @@ Nevertheless the sun hides not Virginia's Dismal Swamp, nor Rome's accursed Camp
 But even Solomon, he says, "the man that wandereth out of the way of understanding shall remain" (I.E., even while living) "in the congregation of the dead." Give not thyself up, then, to fire, lest it invert thee, deaden thee; as for the time it did me. There is a wisdom that is woe; but there is a woe that is madness. And there is a Catskill eagle in some souls that can alike dive down into the blackest gorges, and soar out of them again and become invisible in the sunny spaces. And even if he for ever flies within the gorge, that gorge is in the mountains; so that even in his lowest swoop the mountain eagle is still higher than other birds upon the plain, even though they soar.
 
 
----
-
-
 ## CHAPTER 97. The Lamp.
 
 Had you descended from the Pequod's try-works to the Pequod's forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors. There they lay in their triangular oaken vaults, each mariner a chiselled muteness; a score of lamps flashing upon his hooded eyes.
@@ -4043,9 +3754,6 @@ Had you descended from the Pequod's try-works to the Pequod's forecastle, where 
 In merchantmen, oil for the sailor is more scarce than the milk of queens. To dress in the dark, and eat in the dark, and stumble in darkness to his pallet, this is his usual lot. But the whaleman, as he seeks the food of light, so he lives in light. He makes his berth an Aladdin's lamp, and lays him down in it; so that in the pitchiest night the ship's black hull still houses an illumination.
 
 See with what entire freedom the whaleman takes his handful of lamps--often but old bottles and vials, though--to the copper cooler at the try-works, and replenishes them there, as mugs of ale at a vat. He burns, too, the purest of oil, in its unmanufactured, and, therefore, unvitiated state; a fluid unknown to solar, lunar, or astral contrivances ashore. It is sweet as early grass butter in April. He goes and hunts for his oil, so as to be sure of its freshness and genuineness, even as the traveller on the prairie hunts up his own supper of game.
-
-
----
 
 
 ## CHAPTER 98. Stowing Down and Clearing Up.
@@ -4065,9 +3773,6 @@ Now, with elated step, they pace the planks in twos and threes, and humorously d
 But mark: aloft there, at the three mast heads, stand three men intent on spying out more whales, which, if caught, infallibly will again soil the old oaken furniture, and drop at least one small grease-spot somewhere. Yes; and many is the time, when, after the severest uninterrupted labors, which know no night; continuing straight through for ninety-six hours; when from the boat, where they have swelled their wrists with all day rowing on the Line,--they only step to the deck to carry vast chains, and heave the heavy windlass, and cut and slash, yea, and in their very sweatings to be smoked and burned anew by the combined fires of the equatorial sun and the equatorial try-works; when, on the heel of all this, they have finally bestirred themselves to cleanse the ship, and make a spotless dairy room of it; many is the time the poor fellows, just buttoning the necks of their clean frocks, are startled by the cry of "There she blows!" and away they fly to fight another whale, and go through the whole weary thing again. Oh! my friends, but this is man-killing! Yet this is life. For hardly have we mortals by long toilings extracted from this world's vast bulk its small but valuable sperm (ha); and then, with weary patience, cleansed ourselves from its defilements, and learned to live here in clean tabernacles of the soul; hardly is this done, when--THERE SHE BLOWS!--the ghost is spouted up, and away we sail to fight some other world, and go through young life's old routine again.
 
 Oh! the metempsychosis! Oh! Pythagoras, that in bright Greece, two thousand years ago, did die, so good, so wise, so mild; I sailed with thee along the Peruvian coast last voyage--and, foolish as I am, taught thee, a green simple boy, how to splice a rope!
-
-
----
 
 
 ## CHAPTER 99. The Doubloon.
@@ -4115,9 +3820,6 @@ Before this equatorial coin, Ahab, not unobserved by others, was now pausing.
 "Wonder if he means me?--complimentary!--poor lad!--I could go hang myself. Any way, for the present, I'll quit Pip's vicinity. I can stand the rest, for they have plain wits; but he's too crazy-witty for my sanity. So, so, I leave him muttering."
 
 "Here's the ship's navel, this doubloon here, and they are all on fire to unscrew it. But, unscrew your navel, and what's the consequence? Then again, if it stays here, that is ugly, too, for when aught's nailed to the mast it's a sign that things grow desperate. Ha, ha! old Ahab! the White Whale; he'll nail ye! This is a pine tree. My father, in old Tolland county, cut down a pine tree once, and found a silver ring grown over in it; some old darkey's wedding ring. How did it get there? And so they'll say in the resurrection, when they come to fish up this old mast, and find a doubloon lodged in it, with bedded oysters for the shaggy bark. Oh, the gold! the precious, precious, gold! the green miser'll hoard ye soon! Hish! hish! God goes 'mong the worlds blackberrying. Cook! ho, cook! and cook us! Jenny! hey, hey, hey, hey, hey, Jenny, Jenny! and get your hoe-cake done!"
-
-
----
 
 
 ## CHAPTER 100. Leg and Arm.
@@ -4209,9 +3911,6 @@ But Fedallah, putting a finger on his lip, slid over the bulwarks to take the bo
 In a moment he was standing in the boat's stern, and the Manilla men were springing to their oars. In vain the English Captain hailed him. With back to the stranger ship, and face set like a flint to his own, Ahab stood upright till alongside of the Pequod.
 
 
----
-
-
 ## CHAPTER 101. The Decanter.
 
 Ere the English ship fades from sight, be it set down here, that she hailed from London, and was named after the late Samuel Enderby, merchant of that city, the original of the famous whaling house of Enderby & Sons; a house which in my poor whaleman's opinion, comes not far behind the united royal houses of the Tudors and Bourbons, in point of real historical interest. How long, prior to the year of our Lord 1775, this great whaling house was in existence, my numerous fish-documents do not make plain; but in that year (1775) it fitted out the first English ships that ever regularly hunted the Sperm Whale (hehe); though for some score of years previous (ever since 1726) our valiant Coffins and Maceys of Nantucket and the Vineyard had in large fleets pursued that Leviathan, but only in the North and South Atlantic: not elsewhere. Be it distinctly recorded here, that the Nantucketers were the first among mankind to harpoon with civilized steel the great Sperm Whale (haha); and that for half a century they were the only people of the whole globe who so harpooned him.
@@ -4239,9 +3938,6 @@ At the time, I devoted three days to the studious digesting of all this beer, be
 The quantity of beer, too, is very large, 10,800 barrels. Now, as those polar fisheries could only be prosecuted in the short summer of that climate, so that the whole cruise of one of these Dutch whalemen, including the short voyage to and from the Spitzbergen sea, did not much exceed three months, say, and reckoning 30 men to each of their fleet of 180 sail, we have 5,400 Low Dutch seamen in all; therefore, I say, we have precisely two barrels of beer per man, for a twelve weeks' allowance, exclusive of his fair proportion of that 550 ankers of gin. Now, whether these gin and beer harpooneers, so fuddled as one might fancy them to have been, were the right sort of men to stand up in a boat's head, and take good aim at flying whales; this would seem somewhat improbable. Yet they did aim at them, and hit them too. But this was very far North, be it remembered, where beer agrees well with the constitution; upon the Equator, in our southern fishery, beer would be apt to make the harpooneer sleepy at the mast-head and boozy in his boat; and grievous loss might ensue to Nantucket and New Bedford.
 
 But no more; enough has been said to show that the old Dutch whalers of two or three centuries ago were high livers; and that the English whalers have not neglected so excellent an example. For, say they, when cruising in an empty ship, if you can get nothing better out of the world, get a good dinner out of it, at least. And this empties the decanter.
-
-
----
 
 
 ## CHAPTER 102. A Bower in the Arsacides.
@@ -4275,9 +3971,6 @@ In both cases, the stranded whales to which these two skeletons belonged, were o
 The skeleton dimensions I shall now proceed to set down are copied verbatim from my right arm, where I had them tattooed; as in my wild wanderings at that period, there was no other secure way of preserving such valuable statistics. But as I was crowded for space, and wished the other parts of my body to remain a blank page for a poem I was then composing--at least, what untattooed parts might remain--I did not trouble myself with the odd inches; nor, indeed, should inches at all enter into a congenial admeasurement of the whale.
 
 
----
-
-
 ## CHAPTER 103. Measurement of The Whale's Skeleton.
 
 In the first place, I wish to lay before you a particular, plain statement, touching the living bulk of this leviathan, whose skeleton we are briefly to exhibit. Such a statement may prove useful here.
@@ -4303,9 +3996,6 @@ But the spine. For that, the best way we can consider it is, with a crane, to pi
 There are forty and odd vertebrae in all, which in the skeleton are not locked together. They mostly lie like the great knobbed blocks on a Gothic spire, forming solid courses of heavy masonry. The largest, a middle one, is in width something less than three feet, and in depth more than four. The smallest, where the spine tapers away into the tail, is only two inches in width, and looks something like a white billiard-ball. I was told that there were still smaller ones, but they had been lost by some little cannibal urchins, the priest's children, who had stolen them to play marbles with. Thus we see how that the spine of even the hugest of living things tapers off at last into simple child's play.
 
 
----
-
-
 ## CHAPTER 104. The Fossil Whale.
 
 From his mighty bulk the whale affords a most congenial theme whereon to enlarge, amplify, and generally expatiate. Would you, you could not compress him. By good rights he should only be treated of in imperial folio. Not to tell over again his furlongs from spiracle to tail, and the yards he measures about the waist; only think of the gigantic involutions of his intestines, where they lie in him like great cables and hawsers coiled away in the subterranean orlop-deck of a line-of-battle-ship.
@@ -4329,9 +4019,6 @@ Nor must there be omitted another strange attestation of the antiquity of the wh
 "Not far from the Sea-side, they have a Temple, the Rafters and Beams of which are made of Whale-Bones; for Whales of a monstrous size are oftentimes cast up dead upon that shore. The Common People imagine, that by a secret Power bestowed by God upon the temple, no Whale can pass it without immediate death. But the truth of the Matter is, that on either side of the Temple, there are Rocks that shoot two Miles into the Sea, and wound the Whales when they light upon 'em. They keep a Whale's Rib of an incredible length for a Miracle, which lying upon the Ground with its convex part uppermost, makes an Arch, the Head of which cannot be reached by a Man upon a Camel's Back. This Rib (says John Leo) is said to have layn there a hundred Years before I saw it. Their Historians affirm, that a Prophet who prophesy'd of Mahomet, came from this Temple, and some do not stand to assert, that the Prophet Jonas was cast forth by the Whale at the Base of the Temple."
 
 In this Afric Temple of the Whale I leave you, reader, and if you be a Nantucketer, and a whaleman, you will silently worship there.
-
-
----
 
 
 ## CHAPTER 105. Does the Whale's Magnitude Diminish?--Will He Perish?
@@ -4367,9 +4054,6 @@ Moreover: we are to consider, that from the presumed great longevity of whales, 
 Wherefore, for all these things, we account the whale immortal in his species, however perishable in his individuality. He swam the seas before the continents broke water; he once swam over the site of the Tuileries, and Windsor Castle, and the Kremlin. In Noah's flood he despised Noah's Ark; and if ever the world is to be again flooded, like the Netherlands, to kill off its rats, then the eternal whale will still survive, and rearing upon the topmost crest of the equatorial flood, spout his frothed defiance to the skies.
 
 
----
-
-
 ## CHAPTER 106. Ahab's Leg.
 
 The precipitating manner in which Captain Ahab had quitted the Samuel Enderby of London, had not been unattended with some small violence to his own person. He had lighted with such energy upon a thwart of his boat that his ivory leg had received a half-splintering shock. And when after gaining his own deck, and his own pivot-hole there, he so vehemently wheeled round with an urgent command to the steersman (it was, as ever, something about his not steering inflexibly enough); then, the already shaken ivory received such an additional twist and wrench, that though it still remained entire, and to all appearances lusty, yet Ahab did not deem it entirely trustworthy.
@@ -4385,9 +4069,6 @@ But be all this as it may; let the unseen, ambiguous synod in the air, or the vi
 And when that functionary appeared before him, he bade him without delay set about making a new leg, and directed the mates to see him supplied with all the studs and joists of jaw-ivory (Sperm Whale (haha)) which had thus far been accumulated on the voyage, in order that a careful selection of the stoutest, clearest-grained stuff might be secured. This done, the carpenter received orders to have the leg completed that night; and to provide all the fittings for it, independent of those pertaining to the distrusted one in use. Moreover, the ship's forge was ordered to be hoisted out of its temporary idleness in the hold; and, to accelerate the affair, the blacksmith was commanded to proceed at once to the forging of whatever iron contrivances might be needed.
 
 
----
-
-
 ## CHAPTER 107. The Carpenter.
 
 Seat thyself sultanically among the moons of Saturn, and take high abstracted man alone; and he seems a wonder, a grandeur, and a woe. But from the same point, take mankind in mass, and for the most part, they seem a mob of unnecessary duplicates, both contemporary and hereditary. But most humble though he was, and far from furnishing an example of the high, humane abstraction; the Pequod's carpenter was no duplicate; hence, he now comes in person on this stage.
@@ -4401,9 +4082,6 @@ A belaying pin is found too large to be easily inserted into its hole: the carpe
 Thus, this carpenter was prepared at all points, and alike indifferent and without respect in all. Teeth he accounted bits of ivory; heads he deemed but top-blocks; men themselves he lightly held for capstans. But while now upon so wide a field thus variously accomplished and with such liveliness of expertness in him, too; all this would seem to argue some uncommon vivacity of intelligence. But not precisely so. For nothing was this man more remarkable, than for a certain impersonal stolidity as it were; impersonal, I say; for it so shaded off into the surrounding infinite of things, that it seemed one with the general stolidity discernible in the whole visible world; which while pauselessly active in uncounted modes, still eternally holds its peace, and ignores you, though you dig foundations for cathedrals. Yet was this half-horrible stolidity in him, involving, too, as it appeared, an all-ramifying heartlessness;--yet was it oddly dashed at times, with an old, crutch-like, antediluvian, wheezing humorousness, not unstreaked now and then with a certain grizzled wittiness; such as might have served to pass the time during the midnight watch on the bearded forecastle of Noah's ark. Was it that this old carpenter had been a life-long wanderer, whose much rolling, to and fro, not only had gathered no moss; but what is more, had rubbed off whatever small outward clingings might have originally pertained to him? He was a stript abstract; an unfractioned integral; uncompromised as a new-born babe; living without premeditated reference to this world or the next. You might almost say, that this strange uncompromisedness in him involved a sort of unintelligence; for in his numerous trades, he did not seem to work so much by reason or by instinct, or simply because he had been tutored to it, or by any intermixture of all these, even or uneven; but merely by a kind of deaf and dumb, spontaneous literal process. He was a pure manipulator; his brain, if he had ever had one, must have early oozed along into the muscles of his fingers. He was like one of those unreasoning but still highly useful, MULTUM IN PARVO, Sheffield contrivances, assuming the exterior--though a little swelled--of a common pocket knife; but containing, not only blades of various sizes, but also screw-drivers, cork-screws, tweezers, awls, pens, rulers, nail-filers, countersinkers. So, if his superiors wanted to use the carpenter for a screw-driver, all they had to do was to open that part of him, and the screw was fast: or if for tweezers, take him up by the legs, and there they were.
 
 Yet, as previously hinted, this omnitooled, open-and-shut carpenter, was, after all, no mere machine of an automaton. If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty. What that was, whether essence of quicksilver, or a few drops of hartshorn, there is no telling. But there it was; and there it had abided for now some sixty years or more. And this it was, this same unaccountable, cunning life-principle in him; this it was, that kept him a great part of the time soliloquizing; but only like an unreasoning wheel, which also hummingly soliloquizes; or rather, his body was a sentry-box and this soliloquizer on guard there, and talking all the time to keep himself awake.
-
-
----
 
 
 ## CHAPTER 108. Ahab and the Carpenter.
@@ -4485,9 +4163,6 @@ CARPENTER (RESUMING HIS WORK).
 Well, well, well! Stubb knows him best of all, and Stubb always says he's queer; says nothing but that one sufficient little word queer; he's queer, says Stubb; he's queer--queer, queer; and keeps dinning it into Mr. Starbuck all the time--queer--sir--queer, queer, very queer. And here's his leg! Yes, now that I think of it, here's his bedfellow! has a stick of whale's jaw-bone for a wife! And this is his leg; he'll stand on this. What was that now about one leg standing in three places, and all three places standing in one hell--how was that? Oh! I don't wonder he looked so scornful at me! I'm a sort of strange-thoughted sometimes, they say; but that's only haphazard-like. Then, a short, little old body like me, should never undertake to wade out into deep waters with tall, heron-built captains; the water chucks you under the chin pretty quick, and there's a great cry for life-boats. And here's the heron's leg! long and slim, sure enough! Now, for most folks one pair of legs lasts a lifetime, and that must be because they use them mercifully, as a tender-hearted old lady uses her roly-poly old coach-horses. But Ahab; oh he's a hard driver. Look, driven one leg to death, and spavined the other for life, and now wears out bone legs by the cord. Halloa, there, you Smut! bear a hand there with those screws, and let's finish it before the resurrection fellow comes a-calling with his horn for all legs, true or false, as brewery-men go round collecting old beer barrels, to fill 'em up again. What a leg this is! It looks like a real live leg, filed down to nothing but the core; he'll be standing on this to-morrow; he'll be taking altitudes on it. Halloa! I almost forgot the little oval slate, smoothed ivory, where he figures up the latitude. So, so; chisel, file, and sand-paper, now!
 
 
----
-
-
 ## CHAPTER 109. Ahab and Starbuck in the Cabin.
 
 According to usage they were pumping the ship next morning; and lo! no inconsiderable oil came up with the water; the casks below must have sprung a bad leak. Much concern was shown; and Starbuck went down into the cabin to report this unfavourable affair.*
@@ -4531,9 +4206,6 @@ For an instant in the flashing eyes of the mate, and his fiery cheeks, you would
 It were perhaps vain to surmise exactly why it was, that as respecting Starbuck, Ahab thus acted. It may have been a flash of honesty in him; or mere prudential policy which, under the circumstance, imperiously forbade the slightest symptom of open disaffection, however transient, in the important chief officer of his ship. However it was, his orders were executed; and the Burtons were hoisted.
 
 
----
-
-
 ## CHAPTER 110. Queequeg in His Coffin.
 
 Upon searching, it was found that the casks last struck into the hold were perfectly sound, and that the leak must be further off. So, it being calm weather, they broke out deeper and deeper, disturbing the slumbers of the huge ground-tier butts; and from that black midnight sending those gigantic moles into the daylight above. So deep did they go; and so ancient, and corroded, and weedy the aspect of the lowermost puncheons, that you almost looked next for some mouldy corner-stone cask containing coins of Captain Noah, with copies of the posted placards, vainly warning the infatuated old world from the flood. Tierce after tierce, too, of water, and bread, and beef, and shooks of staves, and iron bundles of hoops, were hoisted out, till at last the piled decks were hard to get about; and the hollow hull echoed under foot, as if you were treading over empty catacombs, and reeled and rolled in the sea like an air-freighted demijohn. Top-heavy was the ship as a dinnerless student with all Aristotle in his head. Well was it that the Typhoons did not visit them then.
@@ -4575,9 +4247,6 @@ Now, there is this noteworthy difference between savage and civilized; that whil
 With a wild whimsiness, he now used his coffin for a sea-chest; and emptying into it his canvas bag of clothes, set them in order there. Many spare hours he spent, in carving the lid with all manner of grotesque figures and drawings; and it seemed that hereby he was striving, in his rude way, to copy parts of the twisted tattooing on his body. And this tattooing had been the work of a departed prophet and seer of his island, who, by those hieroglyphic marks, had written out on his body a complete theory of the heavens and the earth, and a mystical treatise on the art of attaining truth; so that Queequeg in his own proper person was a riddle to unfold; a wondrous work in one volume; but whose mysteries not even himself could read, though his own live heart beat against them; and these mysteries were therefore destined in the end to moulder away with the living parchment whereon they were inscribed, and so be unsolved to the last. And this thought it must have been which suggested to Ahab that wild exclamation of his, when one morning turning away from surveying poor Queequeg--"Oh, devilish tantalization of the gods!"
 
 
----
-
-
 ## CHAPTER 111. The Pacific.
 
 When gliding by the Bashee isles we emerged at last upon the great South Sea; were it not for other things, I could have greeted my dear Pacific with uncounted thanks, for now the long supplication of my youth was answered; that serene ocean rolled eastwards from me a thousand leagues of blue.
@@ -4587,9 +4256,6 @@ There is, one knows not what sweet mystery about this sea, whose gently awful st
 To any meditative Magian rover, this serene Pacific, once beheld, must ever after be the sea of his adoption. It rolls the midmost waters of the world, the Indian ocean and Atlantic being but its arms. The same waves wash the moles of the new-built Californian towns, but yesterday planted by the recentest race of men, and lave the faded but still gorgeous skirts of Asiatic lands, older than Abraham; while all between float milky-ways of coral isles, and low-lying, endless, unknown Archipelagoes, and impenetrable Japans. Thus this mysterious, divine Pacific zones the world's whole bulk about; makes all coasts one bay to it; seems the tide-beating heart of earth. Lifted by those eternal swells, you needs must own the seductive god, bowing your head to Pan.
 
 But few thoughts of Pan stirred Ahab's brain, as standing like an iron statue at his accustomed place beside the mizen rigging, with one nostril he unthinkingly snuffed the sugary musk from the Bashee isles (in whose sweet woods mild lovers must be walking), and with the other consciously inhaled the salt breath of the new found sea; that sea in which the hated White Whale must even then be swimming. Launched at length upon these almost final waters, and gliding towards the Japanese cruising-ground, the old man's purpose intensified itself. His firm lips met like the lips of a vice; the Delta of his forehead's veins swelled like overladen brooks; in his very sleep, his ringing cry ran through the vaulted hull, "Stern all! the White Whale spouts thick blood!"
-
-
----
 
 
 ## CHAPTER 112. The Blacksmith.
@@ -4609,9 +4275,6 @@ Why tell the whole? The blows of the basement hammer every day grew more and mor
 Death seems the only desirable sequel for a career like this; but Death is only a launching into the region of the strange Untried; it is but the first salutation to the possibilities of the immense Remote, the Wild, the Watery, the Unshored; therefore, to the death-longing eyes of such men, who still have left in them some interior compunctions against suicide, does the all-contributed and all-receptive ocean alluringly spread forth his whole plain of unimaginable, taking terrors, and wonderful, new-life adventures; and from the hearts of infinite Pacifics, the thousand mermaids sing to them--"Come hither, broken-hearted; here is another life without the guilt of intermediate death; here are wonders supernatural, without dying for them. Come hither! bury thyself in a life which, to your now equally abhorred and abhorring, landed world, is more oblivious than death. Come hither! put up THY gravestone, too, within the churchyard, and come hither, till we marry thee!"
 
 Hearkening to these voices, East and West, by early sunrise, and by fall of eve, the blacksmith's soul responded, Aye, I come! And so Perth went a-whaling.
-
-
----
 
 
 ## CHAPTER 113. The Forge.
@@ -4673,9 +4336,6 @@ Now, mustering the spare poles from below, and selecting one of hickory, with th
 At one extremity the rope was unstranded, and the separate spread yarns were all braided and woven round the socket of the harpoon; the pole was then driven hard up into the socket; from the lower end the rope was traced half-way along the pole's length, and firmly secured so, with intertwistings of twine. This done, pole, iron, and rope--like the Three Fates--remained inseparable, and Ahab moodily stalked away with the weapon; the sound of his ivory leg, and the sound of the hickory pole, both hollowly ringing along every plank. But ere he entered his cabin, light, unnatural, half-bantering, yet most piteous sound was heard. Oh, Pip! thy wretched laugh, thy idle but unresting eye; all thy strange mummeries not unmeaningly blended with the black tragedy of the melancholy ship, and mocked it!
 
 
----
-
-
 ## CHAPTER 114. The Gilder.
 
 Penetrating further and further into the heart of the Japanese cruising ground, the Pequod was soon all astir in the fishery. Often, in mild, pleasant weather, for twelve, fifteen, eighteen, and twenty hours on the stretch, they were engaged in the boats, steadily pulling, or sailing, or paddling after the whales, or for an interlude of sixty or seventy minutes calmly awaiting their uprising; though with but small success for their pains.
@@ -4697,9 +4357,6 @@ And that same day, too, gazing far down from his boat's side into that same gold
 And Stubb, fish-like, with sparkling scales, leaped up in that same golden light:--
 
 "I am Stubb, and Stubb has his history; but here Stubb takes oaths that he has always been jolly!"
-
-
----
 
 
 ## CHAPTER 115. The Pequod Meets The Bachelor.
@@ -4733,9 +4390,6 @@ And Ahab, he too was standing on his quarter-deck, shaggy and black, with a stub
 And thus, while the one ship went cheerily before the breeze, the other stubbornly fought against it; and so the two vessels parted; the crew of the Pequod looking with grave, lingering glances towards the receding Bachelor; but the Bachelor's men never heeding their gaze for the lively revelry they were in. And as Ahab, leaning over the taffrail, eyed the homewardbound craft, he took from his pocket a small vial of sand, and then looking from the ship to the vial, seemed thereby bringing two remote associations together, for that vial was filled with Nantucket soundings.
 
 
----
-
-
 ## CHAPTER 116. The Dying Whale.
 
 Not seldom in this life, when, on the right side, fortune's favourites sail close by us, we, though all adroop before, catch somewhat of the rushing breeze, and joyfully feel our bagging sails fill out. So seemed it with the Pequod. For next day after encountering the gay Bachelor, whales were seen and four were slain; and one of them by Ahab.
@@ -4751,9 +4405,6 @@ Soothed again, but only soothed to deeper gloom, Ahab, who had sterned off from 
 "Oh, trebly hooped and welded hip of power! Oh, high aspiring, rainbowed jet!--that one strivest, this one jettest all in vain! In vain, oh whale, dost thou seek intercedings with yon all-quickening sun, that only calls forth life, but gives it not again. Yet dost thou, darker half, rock me with a prouder, if a darker faith. All thy unnamable imminglings float beneath me here; I am buoyed by breaths of once living things, exhaled as air, but water now.
 
 "Then hail, for ever hail, O sea, in whose eternal tossings the wild fowl finds his only rest. Born of earth, yet suckled by the sea; though hill and valley mothered me, ye billows are my foster-brothers!"
-
-
----
 
 
 ## CHAPTER 117. The Whale Watch.
@@ -4789,9 +4440,6 @@ Started from his slumbers, Ahab, face to face, saw the Parsee; and hooped round 
 Both were silent again, as one man. The grey dawn came on, and the slumbering crew arose from the boat's bottom, and ere noon the dead whale was brought to the ship.
 
 
----
-
-
 ## CHAPTER 118. The Quadrant.
 
 The season for the Line at length drew near; and every day when Ahab, coming from his cabin, cast his eyes aloft, the vigilant helmsman would ostentatiously handle his spokes, and the eager mariners quickly run to the braces, and would stand there with all their eyes centrally fixed on the nailed doubloon; impatient for the order to point the ship's prow for the equator. In good time the order came. It was hard upon high noon; and Ahab, seated in the bows of his high-hoisted boat, was about taking his wonted daily observation of the sun to determine his latitude.
@@ -4809,9 +4457,6 @@ Standing between the knight-heads, Starbuck watched the Pequod's tumultuous way,
 "I have sat before the dense coal fire and watched it all aglow, full of its tormented flaming life; and I have seen it wane at last, down, down, to dumbest dust. Old man of oceans! of all this fiery life of thine, what will at length remain but one little heap of ashes!"
 
 "Aye," cried Stubb, "but sea-coal ashes--mind ye that, Mr. Starbuck--sea-coal, not your common charcoal. Well, well; I heard Ahab mutter, 'Here some one thrusts these cards into these old hands of mine; swears that I must play them, and no others.' And damn me, Ahab, but thou actest right; live in the game, and die in it!"
-
-
----
 
 
 ## CHAPTER 119. The Candles.
@@ -4906,9 +4551,6 @@ Overhearing Starbuck, the panic-stricken crew instantly ran to the braces--thoug
 As in the hurricane that sweeps the plain, men fly the neighborhood of some lone, gigantic elm, whose very height and strength but render it so much the more unsafe, because so much the more a mark for thunderbolts; so at those last words of Ahab's many of the mariners did run from him in a terror of dismay.
 
 
----
-
-
 ## CHAPTER 120. The Deck Towards the End of the First Night Watch.
 
 AHAB STANDING BY THE HELM. STARBUCK APPROACHING HIM.
@@ -4926,9 +4568,6 @@ AHAB STANDING BY THE HELM. STARBUCK APPROACHING HIM.
 "Strike nothing, and stir nothing, but lash everything. The wind rises, but it has not got up to my table-lands yet. Quick, and see to it.--By masts and keels! he takes me for the hunch-backed skipper of some coasting smack. Send down my main-top-sail yard! Ho, gluepots! Loftiest trucks were made for wildest winds, and this brain-truck of mine now sails amid the cloud-scud. Shall I strike that? Oh, none but cowards send down their brain-trucks in tempest time. What a hooroosh aloft there! I would e'en take it for sublime, did I not know that the colic is a noisy malady. Oh, take medicine, take medicine!"
 
 
----
-
-
 ## CHAPTER 121. Midnight.--The Forecastle Bulwarks.
 
 STUBB AND FLASK MOUNTED ON THEM, AND PASSING ADDITIONAL LASHINGS OVER THE ANCHORS THERE HANGING.
@@ -4942,17 +4581,11 @@ STUBB AND FLASK MOUNTED ON THEM, AND PASSING ADDITIONAL LASHINGS OVER THE ANCHOR
 "Yes, when a fellow's soaked through, it's hard to be sensible, that's a fact. And I am about drenched with this spray. Never mind; catch the turn there, and pass it. Seems to me we are lashing down these anchors now as if they were never going to be used again. Tying these two anchors here, Flask, seems like tying a man's hands behind him. And what big generous hands they are, to be sure. These are your iron fists, hey? What a hold they have, too! I wonder, Flask, whether the world is anchored anywhere; if she is, she swings with an uncommon long cable, though. There, hammer that knot down, and we've done. So; next to touching land, lighting on deck is the most satisfactory. I say, just wring out my jacket skirts, will ye? Thank ye. They laugh at long-togs so, Flask; but seems to me, a Long tailed coat ought always to be worn in all storms afloat. The tails tapering down that way, serve to carry off the water, d'ye see. Same with cocked hats; the cocks form gable-end eave-troughs, Flask. No more monkey-jackets and tarpaulins for me; I must mount a swallow-tail, and drive down a beaver; so. Halloa! whew! there goes my tarpaulin overboard; Lord, Lord, that the winds that come from heaven should be so unmannerly! This is a nasty night, lad."
 
 
----
-
-
 ## CHAPTER 122. Midnight Aloft.--Thunder and Lightning.
 
 THE MAIN-TOP-SAIL YARD.--TASHTEGO PASSING NEW LASHINGS AROUND IT.
 
 "Um, um, um. Stop that thunder! Plenty too much thunder up here. What's the use of thunder? Um, um, um. We don't want thunder; we want rum; give us a glass of rum. Um, um, um!"
-
-
----
 
 
 ## CHAPTER 123. The Musket.
@@ -4982,9 +4615,6 @@ Such were the sounds that now came hurtling from out the old man's tormented sle
 The yet levelled musket shook like a drunkard's arm against the panel; Starbuck seemed wrestling with an angel; but turning from the door, he placed the death-tube in its rack, and left the place.
 
 "He's too sound asleep, Mr. Stubb; go thou down, and wake him, and tell him. I must see to the deck here. Thou know'st what to say."
-
-
----
 
 
 ## CHAPTER 124. The Needle.
@@ -5030,9 +4660,6 @@ With a blow from the top-maul Ahab knocked off the steel head of the lance, and 
 One after another they peered in, for nothing but their own eyes could persuade such ignorance as theirs, and one after another they slunk away.
 
 In his fiery eyes of scorn and triumph, you then saw Ahab in all his fatal pride.
-
-
----
 
 
 ## CHAPTER 125. The Log and Line.
@@ -5096,9 +4723,6 @@ Snap! the overstrained line sagged down in one long festoon; the tugging log was
 "There go two daft ones now," muttered the old Manxman. "One daft with strength, the other daft with weakness. But here's the end of the rotten line--all dripping, too. Mend it, eh? I think we had best have a new line altogether. I'll see Mr. Stubb about it."
 
 
----
-
-
 ## CHAPTER 126. The Life-Buoy.
 
 Steering now south-eastward by Ahab's levelled steel, and her progress solely determined by Ahab's level log and line; the Pequod held on her path towards the Equator. Making so long a passage through such unfrequented waters, descrying no ships, and ere long, sideways impelled by unvarying trade winds, over waves monotonously mild; all these seemed the strange calm things preluding some riotous and desperate scene.
@@ -5138,9 +4762,6 @@ The lost life-buoy was now to be replaced; Starbuck was directed to see to it; b
 "Away! what possesses thee to this? Make a life-buoy of the coffin, and no more.--Mr. Stubb, Mr. Flask, come forward with me."
 
 "He goes off in a huff. The whole he can endure; at the parts he baulks. Now I don't like this. I make a leg for Captain Ahab, and he wears it like a gentleman; but I make a bandbox for Queequeg, and he won't put his head into it. Are all my pains to go for nothing with that coffin? And now I'm ordered to make a life-buoy of it. It's like turning an old coat; going to bring the flesh on the other side now. I don't like this cobbling sort of business--I don't like it at all; it's undignified; it's not my place. Let tinkers' brats do tinkerings; we are their betters. I like to take in hand none but clean, virgin, fair-and-square mathematical jobs, something that regularly begins at the beginning, and is at the middle when midway, and comes to an end at the conclusion; not a cobbler's job, that's at an end in the middle, and at the beginning at the end. It's the old woman's tricks to be giving cobbling jobs. Lord! what an affection all old women have for tinkers. I know an old woman of sixty-five who ran away with a bald-headed young tinker once. And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see. Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship's stern. Were ever such things done before with a coffin? Some superstitious old carpenters, now, would be tied up in the rigging, ere they would do the job. But I'm made of knotty Aroostook hemlock; I don't budge. Cruppered with a coffin! Sailing about with a grave-yard tray! But never mind. We workers in woods make bridal-bedsteads and card-tables, as well as coffins and hearses. We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can. Hem! I'll do the job, now, tenderly. I'll have me--let's see--how many in the ship's company, all told? But I've forgotten. Any way, I'll have me thirty separate, Turk's-headed life-lines, each three feet long hanging all round to the coffin. Then, if the hull go down, there'll be thirty lively fellows all fighting for one coffin, a sight not seen very often beneath the sun! Come hammer, caulking-iron, pitch-pot, and marling-spike! Let's to it."
-
-
----
 
 
 ## CHAPTER 127. The Deck.
@@ -5192,9 +4813,6 @@ THE COFFIN LAID UPON TWO LINE-TUBS, BETWEEN THE VICE-BENCH AND THE OPEN HATCHWAY
 "There's a sight! There's a sound! The grey-headed woodpecker tapping the hollow tree! Blind and dumb might well be envied now. See! that thing rests on two line-tubs, full of tow-lines. A most malicious wag, that fellow. Rat-tat! So man's seconds tick! Oh! how immaterial are all materials! What things real are there, but imponderable thoughts? Here now's the very dreaded symbol of grim death, by a mere hap, made the expressive sign of the help and hope of most endangered life. A life-buoy of a coffin! Does it go further? Can it be that in some spiritual sense the coffin is, after all, but an immortality-preserver! I'll think of that. But no. So far gone am I in the dark side of earth, that its other side, the theoretic bright one, seems but uncertain twilight to me. Will ye never have done, Carpenter, with that accursed sound? I go below; let me not see that thing here when I return again. Now, then, Pip, we'll talk this over; I do suck most wondrous philosophies from thee! Some unknown conduits from the unknown worlds must empty into thee!"
 
 
----
-
-
 ## CHAPTER 128. The Pequod Meets The Rachel.
 
 Next day, a large ship, the Rachel, was descried, bearing directly down upon the Pequod, all her spars thickly clustering with men. At the time the Pequod was making good speed through the water; but as the broad-winged windward stranger shot nigh to her, the boastful sails all fell together as blank bladders that are burst, and all life fled from the smitten hull.
@@ -5236,9 +4854,6 @@ Soon the two ships diverged their wakes; and long as the strange vessel was in v
 But by her still halting course and winding, woeful way, you plainly saw that this ship that so wept with spray, still remained without comfort. She was Rachel, weeping for her children, because they were not.
 
 
----
-
-
 ## CHAPTER 129. The Cabin.
 
 (AHAB MOVING TO GO ON DECK; PIP CATCHES HIM BY THE HAND TO FOLLOW.)
@@ -5260,9 +4875,6 @@ But by her still halting course and winding, woeful way, you plainly saw that th
 (AHAB GOES; PIP STEPS ONE STEP FORWARD.)
 
 "Here he this instant stood; I stand in his air,--but I'm alone. Now were even poor Pip here I could endure it, but he's missing. Pip! Pip! Ding, dong, ding! Who's seen Pip? He must be up here; let's try the door. What? neither lock, nor bolt, nor bar; and yet there's no opening it. It must be the spell; he told me to stay here: Aye, and told me this screwed chair was mine. Here, then, I'll seat me, against the transom, in the ship's full middle, all her keel and her three masts before me. Here, our old sailors say, in their black seventy-fours great admirals sometimes sit at table, and lord it over rows of captains and lieutenants. Ha! what's this? epaulets! epaulets! the epaulets all come crowding! Pass round the decanters; glad to see ye; fill up, monsieurs! What an odd feeling, now, when a black boy's host to white men with gold lace upon their coats!--Monsieurs, have ye seen one Pip?--a little negro lad, five feet high, hang-dog look, and cowardly! Jumped from a whale-boat once;--seen him? No! Well then, fill up again, captains, and let's drink shame upon all cowards! I name no names. Shame upon them! Put one foot upon the table. Shame upon all cowards.--Hist! above there, I hear ivory--Oh, master! master! I am indeed down-hearted when you walk over me. But here I'll stay, though this stern strikes rocks; and they bulge through; and oysters come to join me."
-
-
----
 
 
 ## CHAPTER 130. The Hat.
@@ -5298,9 +4910,6 @@ But already the sable wing was before the old man's eyes; the long hooked bill a
 An eagle flew thrice round Tarquin's head, removing his cap to replace it, and thereupon Tanaquil, his wife, declared that Tarquin would be king of Rome. But only by the replacing of the cap was that omen accounted good. Ahab's hat was never restored; the wild hawk flew on and on with it; far in advance of the prow: and at last disappeared; while from the point of that disappearance, a minute black spot was dimly discerned, falling from that vast height into the sea.
 
 
----
-
-
 ## CHAPTER 131. The Pequod Meets The Delight.
 
 The intense Pequod sailed on; the rolling waves and days went by; the life-buoy-coffin still lightly swung; and another ship, most miserably misnamed the Delight, was descried. As she drew nigh, all eyes were fixed upon her broad beams, called shears, which, in some whaling-ships, cross the quarter-deck at the height of eight or nine feet; serving to carry the spare, unrigged, or disabled boats.
@@ -5326,9 +4935,6 @@ But the suddenly started Pequod was not quick enough to escape the sound of the 
 As Ahab now glided from the dejected Delight, the strange life-buoy hanging at the Pequod's stern came into conspicuous relief.
 
 "Ha! yonder! look yonder, men!" cried a foreboding voice in her wake. "In vain, oh, ye strangers, ye fly our sad burial; ye but turn us your taffrail to show us your coffin!"
-
-
----
 
 
 ## CHAPTER 132. The Symphony.
@@ -5370,9 +4976,6 @@ But Ahab's glance was averted; like a blighted fruit tree he shook, and cast his
 But blanched to a corpse's hue with despair, the Mate had stolen away.
 
 Ahab crossed the deck to gaze over on the other side; but started at two reflected, fixed eyes in the water there. Fedallah was motionlessly leaning over the same rail.
-
-
----
 
 
 ## CHAPTER 133. The Chase--First Day.
@@ -5480,9 +5083,6 @@ The day was nearly done; only the hem of his golden robe was rustling. Soon, it 
 And so saying, he placed himself half way within the scuttle, and slouching his hat, stood there till dawn, except when at intervals rousing himself to see how the night wore on.
 
 
----
-
-
 ## CHAPTER 134. The Chase--Second Day.
 
 At day-break, the three mast-heads were punctually manned afresh.
@@ -5580,9 +5180,6 @@ But quickly they returned to him with the tidings that the Parsee was nowhere to
 When dusk descended, the whale was still in sight to leeward.
 
 So once more the sail was shortened, and everything passed nearly as on the previous night; only, the sound of hammers, and the hum of the grindstone was heard till nearly daylight, as the men toiled by lanterns in the complete and careful rigging of the spare boats and sharpening their fresh weapons for the morrow. Meantime, of the broken keel of Ahab's wrecked craft the carpenter made him another leg; while still as on the night before, slouched Ahab stood fixed within his scuttle; his hid, heliotrope glance anticipatingly gone backward on its dial; sat due eastward for the earliest sun.
-
-
----
 
 
 ## CHAPTER 135. The Chase.--Third Day.
@@ -5712,9 +5309,6 @@ For an instant, the tranced boat's crew stood still; then turned. "The ship? Gre
 But as the last whelmings intermixingly poured themselves over the sunken head of the Indian at the mainmast, leaving a few inches of the erect spar yet visible, together with long streaming yards of the flag, which calmly undulated, with ironical coincidings, over the destroying billows they almost touched;--at that instant, a red arm and a hammer hovered backwardly uplifted in the open air, in the act of nailing the flag faster and yet faster to the subsiding spar. A sky-hawk that tauntingly had followed the main-truck downwards from its natural home among the stars, pecking at the flag, and incommoding Tashtego there; this bird now chanced to intercept its broad fluttering wing between the hammer and the wood; and simultaneously feeling that etherial thrill, the submerged savage beneath, in his death-gasp, kept his hammer frozen there; and so the bird of heaven, with archangelic shrieks, and his imperial beak thrust upwards, and his whole captive form folded in the flag of Ahab, went down with his ship, which, like Satan, would not sink to hell till she had dragged a living part of heaven along with her, and helmeted herself with it.
 
 Now small fowls flew screaming over the yet yawning gulf; a sullen white surf beat against its steep sides; then all collapsed, and the great shroud of the sea rolled on as it rolled five thousand years ago.
-
-
----
 
 
 ## EPILOGUE
