@@ -2,6 +2,8 @@
 
 A juvenile remix of the classic novel.
 
+**[Read it here!](https://matthewmcvickar.github.io/nanogenmo-2016/moby-dick-hehe/output/moby-dick-hehe.html)** Pro tip: <kbd>⌘+F</kbd> for 'dick' or skip to [Chapter 36](https://matthewmcvickar.github.io/nanogenmo-2016/moby-dick-hehe/output/moby-dick-hehe.html#chapter-36.-the-quarter-deck.).
+
 
 ## Concept
 
