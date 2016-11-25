@@ -11,6 +11,8 @@ Like this:
 
 > "Who told thee that?" cried Ahab; then pausing, "Aye, Starbuck; aye, my hearties all round; it was Moby Dick (hehe) that dismasted me; Moby Dick (ahaha) that brought me to this dead stump I stand on now. Aye, aye," he shouted with a terrific, loud, animal sob, like that of a heart-stricken moose; "Aye, aye! it was that accursed white whale that razed me; made a poor pegging lubber of me for ever and a day!"
 
+Check out Chapter 36--there's a lot of talk about the titular (hehe) white whale there.
+
 
 ## How I Made It
 
