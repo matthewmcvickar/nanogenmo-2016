@@ -1,0 +1,17 @@
+{
+  "name": "moby-dick-hehe",
+  "version": "1.0.0",
+  "description": "A juvenile remix of the classic novel.",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "author": "Matthew McVickar",
+  "license": "MIT",
+  "repository": "https://github.com/matthewmcvickar/nanogenmo-2016/moby-dick-hehe/",
+  "homepage": "https://github.com/matthewmcvickar/nanogenmo-2016/moby-dick-hehe/",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "underscore": "^1.8.3"
+  }
+}
